@@ -35,10 +35,9 @@
    <div class="row">
     <div class="col-md-6">
      <h3 class="fancy-title animation fadeInLeft"><span>Who We Are</span></h3>
-     <p>Astorion Group is an entrepreneurial enterprise with a vision for the development of exciting Out of Home Media Solutions. We offer the marketer cost-effective frequency and reach through the repetitive nature of Street Pole Ads, our flagship product, together with our groundbreaking mixed media applications. With latest technology, experience and resources, enabling us to develop innovative OOH Media, we are a one stop solutions for all advertising and branding activities.</p>
+     <p>Astorion Group is an entrepreneurial enterprise with a vision to develop innovative Out of Home Media Solutions. With our OOH Media mix, we are able to offer the marketer, cost-effective frequency and extended reach for brand recognition. Latest technology, experience and resources, enable us to develop innovative OOH Media, and be a one stop solution for all advertising and branding activities.</p>
 
-<p>Astorion is proud to be working together with local government to establish revitalized streetscapes with outstanding street furniture innovations.</p>
-<p class="lead"> It <em>owns more than 1000 advertising sites</em> across UT of Dadra & Nagar Haveli, UT of Daman & Diu, South Gujarat and Mumbai - delivering more targeted opportunities than any other outdoor advertising company in the territory.</p>
+<p class="lead">We <em>own more than 1000 advertising sites</em> across UT of Dadra & Nagar Haveli, UT of Daman & Diu, South Gujarat and Mumbai - delivering more targeted opportunities than any other outdoor advertiser in the territory</p>
 
 
      <div class="white-space space-big"></div>
@@ -71,11 +70,12 @@
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member1.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">John Hammond</h4>
-                  <p class="team-role">CEO, Creative Director</p>
+                  <h4 class="team-name">Amrit Singh</h4>
+                  <p class="team-role">Co Founder</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus.</p>
+                <p>Amrit Singh, the co-founder of our company since its incorporation, is an accomplished Marketing, Communications and Media Professional. Having done his Education in Computers, Amrit has a work experience of 4 years in field of Marketing and Public Relations. He is the flame of enthusiasm and innovation that you can’t extinguish. His knowledge, communication skills and keen observation skills are the biggest assets that contribute to all growth in the company.
+He is deeply passionate about his work, and the only thing he leaves at his work station is empty tea cups.</p>
                 <div class="text-center">
                   <ul class="list-inline">
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
@@ -99,11 +99,12 @@
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member1.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">John Hammond</h4>
-                  <p class="team-role">CEO, Creative Director</p>
+                  <h4 class="team-name">Mukesh Sharma</h4>
+                  <p class="team-role">Co Founder</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus.</p>
+                <p>Mukesh Sharma is the Co-founder of our company and has been associated with our company since its incorporation. Having done his graduation in commerce & Post Graduation in Mass Communication, specializing in Journalism from Pune University, he gained work experience at Vascon Engineers Ltd, Pune as Sales Head. Mukesh’s key role has been in strategic planning, cost efficient execution of operational activity, business development and Sales & Marketing.
+Apart from his fondness for punching numbers on calculators, he is a complete car fanatic.</p>
                 <div class="text-center">
                   <ul class="list-inline">
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
@@ -127,11 +128,12 @@
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member1.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">John Hammond</h4>
-                  <p class="team-role">CEO, Creative Director</p>
+                  <h4 class="team-name">Smitahsya Shah</h4>
+                  <p class="team-role">Co Founder</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus.</p>
+                <p>Having done her MBA in finance, and as co-founder of the company, Smitahsya gives strength to the company with her financial knowledge and expertise. She also handles the creative department of the advertising in the company. Prior to working with Astorion Group, she was a Director at Everest Holovisions Ltd, and a Business Associate at Helios Financial Advisory (P) ltd. Smitahsya’s charm, willingness to talk to anyone and her knowledge has played a key role in building Astorion MediaComm Solution.
+Apart from her fondness for excel and numbers, she is a book lover and likes nothing more than a night in with a good book.</p>
                 <div class="text-center">
                   <ul class="list-inline">
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
@@ -155,11 +157,11 @@
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member2.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">Pamela Wehinger</h4>
-                  <p class="team-role">Marketing &amp; Sales</p>
+                  <h4 class="team-name">Swapnil Kasar</h4>
+                  <p class="team-role">Marketing Executive</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Quisque non aliquet ligula, nec lobortis sem. Morbi sit amet facilisis ipsum. Cras nisi accumsan.</p>
+                <p>Having done his MBA in Marketing, Swapnil looks after the marketing and Content Development activity for clients. He is a very hardworking, honest employee who is passionate about his work. He shares the same vision as the promoters and works hard towards achieving the goals of the company.</p>
                 <div class="text-center">
                   <ul class="list-inline">
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
@@ -183,11 +185,10 @@
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member3.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">Lance Dorgan</h4>
-                  <p class="team-role">Art Director</p>
+                  <h4 class="team-name">Rakesh Patil</h4>
+                  <p class="team-role">Operational Executive</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Pellentesque imperdiet nisl quis feugiat tempor. Cum sociis natoque penatibus et magnis dis.</p>
                 <div class="text-center">
                   <ul class="list-inline">
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
@@ -282,26 +283,17 @@
 
         <div class="tabs-alt tab-content">
           <div class="tab-pane fade in active" id="home5">
-            <p class="drop-border"><span class="firstletter">V</span>hasellu lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed massa quis elit sagittis tempor. Ut rutrum sem vel augue rhoncus vestibulum. Maecenas ornare justo in lorem egestas, ac condimentum leo aliquet. Quisque sollicitudin lectus velit, nec aliquam ipsum aliquam at.</p>
-            <div class="row">
-              <div class="col-sm-6 columns">
-                <ul class="list-default divider-list fa-ul">
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Aenean eget mi eget</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Duis dictum purus</a></li>
-                </ul>
-              </div>
-              <div class="col-sm-6 columns">
-                <ul class="list-default divider-list fa-ul">
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Aenean eget mi eget</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Duis dictum purus</a></li>
-                </ul>
-              </div>
-            </div>
+            <p class="drop-border"><span class="firstletter">T</span>o provide creatively refreshing, outstanding, ingeniously clever and effective communication solutions those give penetration and mileage for your money.
+</p><p>We intend to be an indispensible Partner, creating business Success and growth for our clients, and serving the Public.
+</p><p>We intend to be an indispensible Partner, creating & developing innovative advertising mediums for our clients, whilst serving for Social and Economic Upliftment of Public.</p><p>We intend to create & develop streetscapes, helping in order to develop exceptional Public environment.</p><p>With our vision for the development of exceptional public environments, we are striving towards the establishment of the country’s streetscapes that compete with those of the best cities in the world.” </p>
           </div>
           <div class="tab-pane fade" id="profile5">
-            <p class="drop-border"><span class="firstletter">P</span>ivamus euismod dui nec justo dignissim sodales. Proin nec velit felis. Maecenas ullamcorper rhoncus urna, quis consectetur tortor fringilla sed. Praesent imperdiet imperdiet mollis. </p>
+            <p class="drop-border"><span class="firstletter">I</span>ntegrity: - We are honest, ethical and fair in all our business dealings. We will treat everyone fairly.
+Customer Focus: Customers drive our next actions. Customer engagement propels us to see innovative ways of doing things and to greater excellence.
+Quality: - We maintain and sustain our quality standards for whichever product we develop. We never compromise on quality.
+Commitment: - We honour our commitments and take personal responsibility for our actions.
+Keeping our Word: We enjoy the capital of trust among  customers, local authorities, advertisers, financial or contractual partners, because we are known to keep our word. Doing better than our contractual obligations is one of the key values of our Group
+Transparency: - Transparency & Openness in dealings that we do, is the key principle that enables us to develop and preserve trust amongst our customers, local authorities, financial/contractual partners.</p>
             <div class="row">
               <div class="col-sm-6 columns">
                 <ul class="list-default divider-list fa-ul">
@@ -320,8 +312,9 @@
             </div>
           </div>
           <div class="tab-pane fade" id="messages5">
-            <p class="drop-border"><span class="firstletter">M</span>hasellu lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed massa quis elit <a href="#">sagittis tempor</a>. Ut rutrum sem vel augue rhoncus vestibulum. Maecenas ornare justo in lorem egestas, ac condimentum leo aliquet. Quisque sollicitudin lectus velit, nec aliquam <a href="#">ipsum aliquam</a> at.</p>
-            <p>Sed et mi vitae augue aliquet molestie. Praesent lorem lorem, facilisis ut sollicitudin ut, blandit ac arcu. Fusce ac sollicitudin ligula. Fusce ac sollicitudin ligula. Vestibulum aliquam massa arcu, quis <a href="#">adipiscing lectus</a> ultricies at. Cras sodales rhoncus aliquet.</p>
+            <p class="drop-border"><span class="firstletter">W</span>e are committed to the resourceful and responsible development of innovative advertising initiatives for Social and economical upliftment, while serving the commercial needs of councils, clients, consumers and the community at large.
+</p><p>As part of our vision for the socio-economic transformation of emerging markets within India, AMS Ads is committed to making a genuine difference to our country.
+Astorion is proud to be working together with local government to establish revitalized streetscapes with outstanding street furniture innovations.</p>
           </div>
         </div>
         <!-- /Tabs -->
