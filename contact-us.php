@@ -33,70 +33,71 @@
             	<div class="white-space space-big"></div>
 
             	<div class="row">
-                    <div class="col-md-6">
-                    	<h3 class="fancy-title"><span>Contact Information</span></h3>
+              <center>
+                <h3 class="fancy-title"><span>Contact Information</span></h3>  
+              </center>
+                    <div class="col-md-6" style="height:250px">
+<!--
                         <p>Aliquam quis fermentum justo, sit amet tincidunt turpis. Fusce varius neque eros, in accumsan felis pellentesque at. Nulla ut bibendum dui. Nunc lobortis felis a quam sagittis, nec dignissim elit laoreet. Nam tincidunt justo at turpis sollicitudin commodo. </p>
-						<div class="row">
+-->						<div class="row">
                         	<div class="col-sm-6">
                             	<ul class="list-default fa-ul">
-                        			<li><span class="fa-li fa fa-phone color-default"></span>09574881777 / 09574882777 / 09574883777</li>
-                            		<li><span class="fa-li fa fa-envelope color-default"></span>contact@astorion.in</li>
+                        			<li><span class="fa-li fa fa-phone color-default"></span>09574882777 / 09574883777</li>
+                            		<li><span class="fa-li fa fa-envelope color-default"></span>amrit@amsads.in</li>
                         		</ul>
                             </div>
                         	<div class="col-sm-6">
                             	<ul class="list-default fa-ul">
-                                <li><span class="fa-li fa fa-clock-o color-default"></span><strong>Monday - Saturday:</strong> 09:00 - 18:00</li>
-                        			<li><span class="fa-li fa fa-map-marker color-default"></span>Zn-603, Garden City, Samvarwani , Silvassa, D &amp; N H - 396230 </li>
+                                <li><span class="fa-li fa fa-clock-o color-default"></span><strong>Monday - Saturday:</strong> 10am to 8pm</li>
+                        			<li><span class="fa-li fa fa-map-marker color-default"></span>111, 1st Floor, Landmark, Tokarkhada, Silvassa,<br/> D &amp; N H - 396230 </li>
                         		</ul>
                             </div>
                         </div>
                         <div class="white-space space-small"></div>
                     </div>
-                    <div class="col-md-6">
-                    	<h3 class="fancy-title"><span>Contact Form</span></h3>
-
-                        <!-- Form -->
-						<form class="form-horizontal" role="form">
-							<div class="form-group">
-								<div class="col-sm-6">
-									<input type="name" class="form-control" id="inputName" placeholder="Name">
-								</div>
-								<div class="col-sm-6">
-									<input type="email" class="form-control" id="inputEmail" placeholder="Email">
-								</div>
-								<div class="col-sm-12">
-									<input type="message" class="form-control" id="inputEmail3" placeholder="Subject">
-								</div>
-								<div class="col-sm-12">
-									<textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
-								</div>
-								<div class="col-sm-12">
-									<a type="submit" class="btn btn-primary center-block">Send Message</a>
-								</div>
-							</div>
-						</form>
-                        <!-- /Form -->
+                    <div class="col-md-6" style="height:250px; background-color:#d9d9d9">
+                        <div class="gmap-wrapper"><div id="google-map"></div></div>
+<!--
+                        <!-- Form --
+            						<form class="form-horizontal" role="form">
+            							<div class="form-group">
+            								<div class="col-sm-6">
+            									<input type="name" class="form-control" id="inputName" placeholder="Name">
+            								</div>
+            								<div class="col-sm-6">
+            									<input type="email" class="form-control" id="inputEmail" placeholder="Email">
+            								</div>
+            								<div class="col-sm-12">
+            									<input type="message" class="form-control" id="inputEmail3" placeholder="Subject">
+            								</div>
+            								<div class="col-sm-12">
+            									<textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
+            								</div>
+            								<div class="col-sm-12">
+            									<a type="submit" class="btn btn-primary center-block">Send Message</a>
+            								</div>
+            							</div>
+            						</form>
+                        <!-- /Form --
 
                         <div class="white-space space-small"></div>
-                    </div>
+-->                    </div>
 				</div>
-
-            	<div class="white-space space-medium"></div>
             </div>
 			<!-- /Container -->
 
         	<!-- Map -->
-            <div class="gmap-wrapper"><div id="google-map"></div></div>
+            
             <!-- /Map -->
 
 		</div>
 		<!-- /Main Container -->
-
+<hr>
 		<!-- Footer Container -->
 		<div class="footer-wrapper">
 
 			<!-- Footer Bottom Container -->
-			<div class="footer-bottom">
+			<div class="footer-bottom" style="padding-top:0px">
 
                 <!-- Container -->
                 <div class="container">
@@ -106,32 +107,31 @@
   						<div class="col-md-12 col-sm-12 columns">
                         	<div class="menu-footer">
                             	<ul class="list-inline">
-                                	<li><a href="">Home</a></li>
-                                    <li><a href="">About Us</a></li>
-                                    <li><a href="">Shop</a></li>
-                                    <li><a href="">Blog</a></li>
-                                    <li><a href="">Portfolio</a></li>
-                                    <li><a href="">Contact</a></li>
+                                	<li><a href="/index.php">Home</a></li>
+                                  <li><a href="/about-us.php">About Us</a></li>
+                                  <li><a href="">Blog</a></li>
+                                  <li><a href="">Portfolio</a></li>                                                                        
+                                  <li><a href="/contact-us.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
                         <!-- /Footer Menu -->
                     	<!-- Copyright -->
-  						<div class="col-md-12 col-sm-12 columns">
+<!--  						<div class="col-md-12 col-sm-12 columns">
                         	<div class="copyright">
                         		<p>Copyright © 2014 - Avendor | All Rights Reserved</p>
                             </div>
                         </div>
+-->
                         <!-- /Copyright -->
                         <!-- Footer Social -->
   						<div class="col-md-12 col-sm-12 columns">
                         	<div class="social-footer">
                             	<ul class="list-inline social-list">
-                                	<li><a href="" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+                                	<li><a href="https://www.facebook.com/AstorionMediaCommSolution/" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+                                    <li><a href="https://www.twitter.com/AstorionGroup/" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
                                     <li><a href="" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
-                                    <li><a href="" class="ToolTip" title="Pinterest"><span class="fa fa-pinterest"></span></a></li>
-                                    <li><a href="" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
+                                    <li><a href="http://www.linkedin.com/company/astorion-media-solutions" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -32,7 +32,7 @@
       <p class="lead text-center color-white">Do you have any inquiries? Contact us now!</p>
     </div>
     <div class="col-md-6">
-      <div class="text-center"><a class="btn btn-white btn-alt btn-lg" href="#">Contact Us?</a></div>
+      <div class="text-center"><a class="btn btn-white btn-alt btn-lg" href="/contact-us.php">Contact Us?</a></div>
     </div>
   </div>
   <div class="white-space space-small"></div>
@@ -53,7 +53,7 @@
        <div class="carousel" data-carousel-autoplay="6000" data-carousel-nav="false" data-carousel-pagination="true" data-carousel-single="true" data-carousel-transition="backSlide">
         <div class="testimonial-item text-center">
          <blockquote>
-          <p class="lead">On passing by the main streets of Silvassa, it is difficult to miss the bright Mobile Hoardings- first of its kind in the town. Alok Public School thanks <strong>Astorion Group</strong> for the eye catching advertisement and for making the school make the maiden appearance on their glow boards.</p>
+          <p class="lead text-justify">On passing by the main streets of Silvassa, it is difficult to miss the bright Mobile Hoardings- first of its kind in the town. Alok Public School thanks <strong>Astorion Group</strong> for the eye catching advertisement and for making the school make the maiden appearance on their glow boards.</p>
           <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
           <span class="bold">Ms Sen</span>
           <small><span>Principal</span> - <a href="http://alokpublicschool.org" target="_blank" class="color-default">Alok Public School</a></small>
@@ -61,18 +61,18 @@
       </div>
       <div class="testimonial-item text-center">
        <blockquote>
-        <p class="lead">Sed ultricies lorem lectus, vitae ornare mauris volutpat ac. In eu eros venenatis, <strong>pellentesque mauris</strong> id, commodo dui. In a malesuada ipsum ornare. Etiam adipiscing sed nibh at sollicitudin.</p>
+        <p class="lead text-justify">Sed ultricies lorem lectus, vitae ornare mauris volutpat ac. In eu eros venenatis, <strong>pellentesque mauris</strong> id, commodo dui. In a malesuada ipsum ornare. Etiam adipiscing sed nibh at sollicitudin.</p>
         <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
         <span class=" bold">Alfered Rich</span>
-        <small><span>Co-Founder / CTO</span> - <a href="#" class="color-default">Evasion, Ltd.</a></small>
+        <small><span>Co-Founder / CTO</span> - <strong style="color:#f7505a !important">Evasion, Ltd.</strong></small>
       </blockquote>
     </div>
     <div class="testimonial-item text-center">
      <blockquote>
-      <p class="lead">Aenean dui massa, sagittis et urna ut, gravida sagittis lectus. Donec justo justo, molestie vel tortor ut, placerat pharetra lorem. Vivamus venenatis sapien eget. Sed augue lorem, dignissim eget.</p>
+      <p class="lead text-justify">Aenean dui massa, sagittis et urna ut, gravida sagittis lectus. Donec justo justo, molestie vel tortor ut, placerat pharetra lorem. Vivamus venenatis sapien eget. Sed augue lorem, dignissim eget.</p>
       <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
       <span class="bold">Bruce Dingeling</span>
-      <small><span>Marketing &amp; Sales</span> - <a href="#" class="color-default">Evasion, Ltd.</a></small>
+      <small><span>Marketing &amp; Sales</span> - <strong style="color:#f7505a !important">Evasion, Ltd.</strong></small>
     </blockquote>
   </div>
 </div>

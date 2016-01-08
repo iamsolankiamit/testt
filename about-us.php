@@ -13,7 +13,7 @@
       </div>
       <div class="breadcrumbs-wrapper">
        <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="/index.php">Home</a></li>
         <li class="active">About Us</li>
       </ol>
     </div>
@@ -35,9 +35,9 @@
    <div class="row">
     <div class="col-md-6">
      <h3 class="fancy-title animation fadeInLeft"><span>Who We Are</span></h3>
-     <p>Astorion Group is an entrepreneurial enterprise with a vision to develop innovative Out of Home Media Solutions. With our OOH Media mix, we are able to offer the marketer, cost-effective frequency and extended reach for brand recognition. Latest technology, experience and resources, enable us to develop innovative OOH Media, and be a one stop solution for all advertising and branding activities.</p>
+     <p class="text-justify">Astorion Group is an entrepreneurial enterprise with a vision to develop innovative Out of Home Media Solutions. With our OOH Media mix, we are able to offer the marketer, cost-effective frequency and extended reach for brand recognition. Latest technology, experience and resources, enable us to develop innovative OOH Media, and be a one stop solution for all advertising and branding activities.</p>
 
-<p class="lead">We <em>own more than 1000 advertising sites</em> across UT of Dadra & Nagar Haveli, UT of Daman & Diu, South Gujarat and Mumbai - delivering more targeted opportunities than any other outdoor advertiser in the territory</p>
+<p class="lead text-justify">We <em>own more than 1000 advertising sites</em> across UT of Dadra & Nagar Haveli, UT of Daman & Diu, South Gujarat and Mumbai - delivering more targeted opportunities than any other outdoor advertiser in the territory</p>
 
 
      <div class="white-space space-big"></div>
@@ -62,7 +62,7 @@
         <p class="lead text-center">Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit.</p>
         <div class="white-space space-medium"></div>
       </div>
-      <div class="col-md-4 col-sm-6 columns">
+      <div class="col-md-6 col-sm-6 columns">
         <div class="panel panel-default animation fadeInLeft delay1">
           <div class="panel-body">
             <!-- Team Member -->
@@ -74,15 +74,15 @@
                   <p class="team-role">Co Founder</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Amrit Singh, the co-founder of our company since its incorporation, is an accomplished Marketing, Communications and Media Professional. Having done his Education in Computers, Amrit has a work experience of 4 years in field of Marketing and Public Relations. He is the flame of enthusiasm and innovation that you can’t extinguish. His knowledge, communication skills and keen observation skills are the biggest assets that contribute to all growth in the company.
+                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amrit Singh, the co-founder of our company since its incorporation, is an accomplished Marketing, Communications and Media Professional. Having done his Education in Computers, Amrit has a work experience of 4 years in field of Marketing and Public Relations. He is the flame of enthusiasm and innovation that you can’t extinguish. His knowledge, communication skills and keen observation skills are the biggest assets that contribute to all growth in the company.
 He is deeply passionate about his work, and the only thing he leaves at his work station is empty tea cups.</p>
                 <div class="text-center">
                   <ul class="list-inline">
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
+<!--                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Twitter"><span class="fa fa-twitter fa-lg"></span></a></li>
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Google+"><span class="fa fa-google-plus fa-lg"></span></a></li>
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Pinterest"><span class="fa fa-pinterest fa-lg"></span></a></li>
-                  </ul>
+-->                    <li><a href="https://plus.google.com/102115268637944236159/" class="ToolTip" data-opie-position="tc:bc" title="Google+"><span class="fa fa-google-plus fa-lg"></span></a></li>
+<!--                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Pinterest"><span class="fa fa-pinterest fa-lg"></span></a></li>
+-->                  </ul>
                 </div>
               </div>
             </div>
@@ -91,10 +91,11 @@ He is deeply passionate about his work, and the only thing he leaves at his work
         </div>
         <div class="white-space space-medium"></div>
       </div>
+<!--
       <div class="col-md-4 col-sm-6 columns">
         <div class="panel panel-default animation fadeInLeft delay1">
           <div class="panel-body">
-            <!-- Team Member -->
+            <!-- Team Member --
             <div class="team-wrapper team-wrapper-alt">
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member1.jpg">
@@ -115,12 +116,14 @@ Apart from his fondness for punching numbers on calculators, he is a complete ca
                 </div>
               </div>
             </div>
-            <!-- /Team Member -->
+            <!-- /Team Member --
           </div>
         </div>
         <div class="white-space space-medium"></div>
       </div>
-      <div class="col-md-4 col-sm-6 columns">
+
+      -->
+      <div class="col-md-6 col-sm-6 columns">
         <div class="panel panel-default animation fadeInLeft delay1">
           <div class="panel-body">
             <!-- Team Member -->
@@ -132,15 +135,15 @@ Apart from his fondness for punching numbers on calculators, he is a complete ca
                   <p class="team-role">Co Founder</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Having done her MBA in finance, and as co-founder of the company, Smitahsya gives strength to the company with her financial knowledge and expertise. She also handles the creative department of the advertising in the company. Prior to working with Astorion Group, she was a Director at Everest Holovisions Ltd, and a Business Associate at Helios Financial Advisory (P) ltd. Smitahsya’s charm, willingness to talk to anyone and her knowledge has played a key role in building Astorion MediaComm Solution.
+                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having done her MBA in finance, and as co-founder of the company, Smitahsya gives strength to the company with her financial knowledge and expertise. She also handles the creative department of the advertising in the company. Prior to working with Astorion Group, she was a Director at Everest Holovisions Ltd, and a Business Associate at Helios Financial Advisory (P) ltd. Smitahsya’s charm, willingness to talk to anyone and her knowledge has played a key role in building Astorion MediaComm Solution.
 Apart from her fondness for excel and numbers, she is a book lover and likes nothing more than a night in with a good book.</p>
                 <div class="text-center">
                   <ul class="list-inline">
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Twitter"><span class="fa fa-twitter fa-lg"></span></a></li>
+                    <li><a href="https://www.facebook.com/smitahsya.shah/" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
+<!--                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Twitter"><span class="fa fa-twitter fa-lg"></span></a></li>
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Google+"><span class="fa fa-google-plus fa-lg"></span></a></li>
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Pinterest"><span class="fa fa-pinterest fa-lg"></span></a></li>
-                  </ul>
+-->                  </ul>
                 </div>
               </div>
             </div>
@@ -149,7 +152,7 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
         </div>
         <div class="white-space space-medium"></div>
       </div>
-      <div class="col-md-4 col-md-offset-2 col-sm-6 columns">
+      <div class="col-md-6 col-md-offset-3 col-sm-6 columns">
         <div class="panel panel-default animation fadeInLeft">
           <div class="panel-body">
             <!-- Team Member -->
@@ -157,18 +160,22 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member2.jpg">
                 <div class="team-info">
-                  <h4 class="team-name">Swapnil Kasar</h4>
-                  <p class="team-role">Marketing Executive</p>
+                  <h4 class="team-name">Amit Solanki</h4>
+                  <p class="team-role">Software Developer</p>
                 </div>
                 <hr class="hr-fancy text-center"/>
-                <p>Having done his MBA in Marketing, Swapnil looks after the marketing and Content Development activity for clients. He is a very hardworking, honest employee who is passionate about his work. He shares the same vision as the promoters and works hard towards achieving the goals of the company.</p>
+                <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--                  Skill Details
+-->
+                </p>
                 <div class="text-center">
                   <ul class="list-inline">
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
-                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Twitter"><span class="fa fa-twitter fa-lg"></span></a></li>
+                    <li><a href="https://www.facebook.com/iamsolankiamit/" class="ToolTip" data-opie-position="tc:bc" title="Facebook"><span class="fa fa-facebook fa-lg"></span></a></li>
+<!--                    <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Twitter"><span class="fa fa-twitter fa-lg"></span></a></li>
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Google+"><span class="fa fa-google-plus fa-lg"></span></a></li>
                     <li><a href="" class="ToolTip" data-opie-position="tc:bc" title="Pinterest"><span class="fa fa-pinterest fa-lg"></span></a></li>
-                  </ul>
+-->                  </ul>
                 </div>
               </div>
             </div>
@@ -177,10 +184,11 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
         </div>
         <div class="white-space space-medium"></div>
       </div>
+<!--
       <div class="col-md-4 col-sm-6 columns">
         <div class="panel panel-default animation fadeInRight">
           <div class="panel-body">
-            <!-- Team Member -->
+            <!-- Team Member --
             <div class="team-wrapper team-wrapper-alt">
               <div class="team-member">
                 <img class="img-responsive img-rounded" alt="Team Member" src="img/demo/team/team-member3.jpg">
@@ -199,14 +207,14 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
                 </div>
               </div>
             </div>
-            <!-- /Team Member -->
+            <!-- /Team Member --
           </div>
         </div>
         <div class="white-space space-medium"></div>
 
 
       </div>
-
+-->
 
     </div>
   </div>
@@ -228,17 +236,17 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
   <div class="row">
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInLeft"><span>Fully Customizable</span></h5>
-      <p>Maecenas et imperdiet enim, tincidunt ullamcorper nunc. Sed elit erat, sollicitudin sed euismod et, ultricies et nisl quis libero.</p>
+      <p class="text-justify">Maecenas et imperdiet enim, tincidunt ullamcorper nunc. Sed elit erat, sollicitudin sed euismod et, ultricies et nisl quis libero.</p>
       <div class="white-space space-small"></div>
     </div>
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInUp"><span>100% Responsive Layout</span></h5>
-      <p>Fusce scelerisque ultricies felis, quis dapibus velit volutpat in. Cras mattis ligula quis libero facilisis, eget ullamcorper tempus vitae.</p>
+      <p class="text-justify">Fusce scelerisque ultricies felis, quis dapibus velit volutpat in. Cras mattis ligula quis libero facilisis, eget ullamcorper tempus vitae.</p>
       <div class="white-space space-small"></div>
     </div>
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInRight"><span>User Friendly</span></h5>
-      <p>Duis placerat leo quis nisl pulvinar mollis. Nulla facilisi. Nullam commodo odio eget metus tempus, vel posuere justo venenatis ligula quis.</p>
+      <p class="text-justify">Duis placerat leo quis nisl pulvinar mollis. Nulla facilisi. Nullam commodo odio eget metus tempus, vel posuere justo venenatis ligula quis.</p>
       <div class="white-space space-small"></div>
     </div>
   </div>
@@ -246,17 +254,17 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
   <div class="row">
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInLeft"><span>Touchscreen Events</span></h5>
-      <p>Cras mattis ligula quis libero facilisis, eget ullamcorper eros aliquet. Suspendisse at dolor metus. Nullam libero commodo odio eget.</p>
+      <p class="text-justify">Cras mattis ligula quis libero facilisis, eget ullamcorper eros aliquet. Suspendisse at dolor metus. Nullam libero commodo odio eget.</p>
       <div class="white-space space-small"></div>
     </div>
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInUp"><span>Mega Menu</span></h5>
-      <p>Aliquam imperdiet, lorem non faucibus aliquet, eros libero placerat nisl, vel semper dolor leo quis ipsum. Proin a libero lacinia metus.</p>
+      <p class="text-justify">Aliquam imperdiet, lorem non faucibus aliquet, eros libero placerat nisl, vel semper dolor leo quis ipsum. Proin a libero lacinia metus.</p>
       <div class="white-space space-small"></div>
     </div>
     <div class="col-sm-4">
       <h5 class="fancy-title animation fadeInRight"><span>Detailed Documentation</span></h5>
-      <p>Sed hendrerit libero vel enim placerat mollis. Praesent at mauris at diam scelerisque congue. Proin imperdiet nisi lorem, nec ullamcorper.</p>
+      <p class="text-justify">Sed hendrerit libero vel enim placerat mollis. Praesent at mauris at diam scelerisque congue. Proin imperdiet nisi lorem, nec ullamcorper.</p>
       <div class="white-space space-small"></div>
     </div>
   </div>
@@ -283,37 +291,40 @@ Apart from her fondness for excel and numbers, she is a book lover and likes not
 
         <div class="tabs-alt tab-content">
           <div class="tab-pane fade in active" id="home5">
-            <p class="drop-border"><span class="firstletter">T</span>o provide creatively refreshing, outstanding, ingeniously clever and effective communication solutions those give penetration and mileage for your money.
-</p><p>We intend to be an indispensible Partner, creating business Success and growth for our clients, and serving the Public.
-</p><p>We intend to be an indispensible Partner, creating & developing innovative advertising mediums for our clients, whilst serving for Social and Economic Upliftment of Public.</p><p>We intend to create & develop streetscapes, helping in order to develop exceptional Public environment.</p><p>With our vision for the development of exceptional public environments, we are striving towards the establishment of the country’s streetscapes that compete with those of the best cities in the world.” </p>
+            <p class="drop-border text-justify"><span class="firstletter">T</span>o provide creatively refreshing, outstanding, ingeniously clever and effective communication solutions those give penetration and mileage for your money.
+</p><p class="text-justify">We intend to be an indispensible Partner, creating business Success and growth for our clients, and serving the Public.
+</p><p class="text-justify">We intend to be an indispensible Partner, creating & developing innovative advertising mediums for our clients, whilst serving for Social and Economic Upliftment of Public.
+</p><p class="text-justify">We intend to create & develop streetscapes, helping in order to develop exceptional Public environment.
+</p><p class="text-justify">With our vision for the development of exceptional public environments, we are striving towards the establishment of the country’s streetscapes that compete with those of the best cities in the world.” </p>
           </div>
           <div class="tab-pane fade" id="profile5">
-            <p class="drop-border"><span class="firstletter">I</span>ntegrity: - We are honest, ethical and fair in all our business dealings. We will treat everyone fairly.
-Customer Focus: Customers drive our next actions. Customer engagement propels us to see innovative ways of doing things and to greater excellence.
-Quality: - We maintain and sustain our quality standards for whichever product we develop. We never compromise on quality.
-Commitment: - We honour our commitments and take personal responsibility for our actions.
-Keeping our Word: We enjoy the capital of trust among  customers, local authorities, advertisers, financial or contractual partners, because we are known to keep our word. Doing better than our contractual obligations is one of the key values of our Group
-Transparency: - Transparency & Openness in dealings that we do, is the key principle that enables us to develop and preserve trust amongst our customers, local authorities, financial/contractual partners.</p>
+            <p class="drop-border text-justify">
+            <strong style="font-size:large; font-weight:500">Integrity: -</strong> We are honest, ethical and fair in all our business dealings. We will treat everyone fairly.
+            <br/><strong style="font-size:large; font-weight:500">Customer Focus: -</strong> Customers drive our next actions. Customer engagement propels us to see innovative ways of doing things and to greater excellence.
+            <br/><strong style="font-size:large; font-weight:500">Quality: -</strong> We maintain and sustain our quality standards for whichever product we develop. We never compromise on quality.
+            <br/><strong style="font-size:large; font-weight:500">Commitment: -</strong> We honour our commitments and take personal responsibility for our actions.
+            <br/><strong style="font-size:large; font-weight:500">Keeping our Word: -</strong> We enjoy the capital of trust among  customers, local authorities, advertisers, financial or contractual partners, because we are known to keep our word. Doing better than our contractual obligations is one of the key values of our Group
+            <br/><strong style="font-size:large; font-weight:500">Transparency: -</strong> Transparency & Openness in dealings that we do, is the key principle that enables us to develop and preserve trust amongst our customers, local authorities, financial/contractual partners.</p>
             <div class="row">
               <div class="col-sm-6 columns">
                 <ul class="list-default divider-list fa-ul">
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Aenean eget mi eget</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Duis dictum purus</a></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Aenean eget mi eget</p></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</p></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Duis dictum purus</p></li>
                 </ul>
               </div>
               <div class="col-sm-6 columns">
                 <ul class="list-default divider-list fa-ul">
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Aenean eget mi eget</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</a></li>
-                  <li><a href=""><span class="fa-li fa fa-star"></span>Duis dictum purus</a></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Aenean eget mi eget</p></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Sed arcu eros lacinia</p></li>
+                  <li style="height:50px"><p style="color:#f7505a !important"><span class="fa-li fa fa-star"></span>Duis dictum purus</p></li>
                 </ul>
               </div>
             </div>
           </div>
           <div class="tab-pane fade" id="messages5">
-            <p class="drop-border"><span class="firstletter">W</span>e are committed to the resourceful and responsible development of innovative advertising initiatives for Social and economical upliftment, while serving the commercial needs of councils, clients, consumers and the community at large.
-</p><p>As part of our vision for the socio-economic transformation of emerging markets within India, AMS Ads is committed to making a genuine difference to our country.
+            <p class="drop-border text-justify"><span class="firstletter">W</span>e are committed to the resourceful and responsible development of innovative advertising initiatives for Social and economical upliftment, while serving the commercial needs of councils, clients, consumers and the community at large.
+</p><p class="text-justify">As part of our vision for the socio-economic transformation of emerging markets within India, AMS Ads is committed to making a genuine difference to our country.
 Astorion is proud to be working together with local government to establish revitalized streetscapes with outstanding street furniture innovations.</p>
           </div>
         </div>
@@ -329,26 +340,26 @@ Astorion is proud to be working together with local government to establish revi
               <div class="carousel carousel-theme-round" data-carousel-autoplay="6000" data-carousel-nav="false" data-carousel-pagination="true" data-carousel-single="true" data-carousel-transition="backSlide">
                 <div class="testimonial-item">
                   <blockquote>
-                    <p class="">Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget justo. Duis tincidunt erat quam. Etiam placerat sapien elit. Vivamus venenatis sapien eget.</p>
+                    <p class="text-justify">Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget justo. Duis tincidunt erat quam. Etiam placerat sapien elit. Vivamus venenatis sapien eget.</p>
                     <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
                     <span class="bold">Lance Dorgan</span>
-                    <small>Art Director - <a href="#">Evasion, Ltd.</a></small>
+                    <small>Art Director - <strong style="color:#f7505a !important">Evasion, Ltd.</strong></small>
                   </blockquote>
                 </div>
                 <div class="testimonial-item">
                   <blockquote>
-                    <p class="">Sed ultricies lorem lectus, vitae ornare mauris volutpat ac. In eu eros venenatis, <strong>pellentesque mauris</strong> id, commodo dui. In a malesuada ipsum ornare. Etiam adipiscing sed nibh at sollicitudin.</p>
+                    <p class="text-justify">Sed ultricies lorem lectus, vitae ornare mauris volutpat ac. In eu eros venenatis, <strong>pellentesque mauris</strong> id, commodo dui. In a malesuada ipsum ornare. Etiam adipiscing sed nibh at sollicitudin.</p>
                     <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
                     <span class="bold">Alfered Rich</span>
-                    <small>Co-Founder / CTO - <a href="#">Evasion, Ltd.</a></small>
+                    <small>Co-Founder / CTO - <strong style="color:#f7505a !important">Evasion, Ltd.</strong></small>
                   </blockquote>
                 </div>
                 <div class="testimonial-item">
                   <blockquote>
-                    <p class="">Aenean dui massa, sagittis et urna ut, gravida sagittis lectus. Donec justo justo, molestie vel tortor ut, placerat pharetra lorem. Vivamus venenatis sapien eget. Sed augue lorem, dignissim eget.</p>
+                    <p class="text-justify">Aenean dui massa, sagittis et urna ut, gravida sagittis lectus. Donec justo justo, molestie vel tortor ut, placerat pharetra lorem. Vivamus venenatis sapien eget. Sed augue lorem, dignissim eget.</p>
                     <p class="color-default"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></p>
                     <span class="bold">Bruce Dingeling</span>
-                    <small>Marketing &amp; Sales - <a href="#">Evasion, Ltd.</a></small>
+                    <small>Marketing &amp; Sales - <strong style="color:#f7505a !important">Evasion, Ltd.</strong></small>
                   </blockquote>
                 </div>
               </div>
@@ -397,32 +408,31 @@ Astorion is proud to be working together with local government to establish revi
     <div class="col-md-12 col-sm-12 columns">
      <div class="menu-footer">
        <ul class="list-inline">
-         <li><a href="">Home</a></li>
-         <li><a href="">About Us</a></li>
-         <li><a href="">Shop</a></li>
+         <li><a href="/index.php">Home</a></li>
+         <li><a href="/about-us.php">About Us</a></li>
          <li><a href="">Blog</a></li>
          <li><a href="">Portfolio</a></li>
-         <li><a href="">Contact</a></li>
+         <li><a href="/contact-us.php">Contact</a></li>
        </ul>
      </div>
    </div>
    <!-- /Footer Menu -->
    <!-- Copyright -->
-   <div class="col-md-12 col-sm-12 columns">
+<!--   <div class="col-md-12 col-sm-12 columns">
      <div class="copyright">
       <p>Copyright © 2014 - Avendor | All Rights Reserved</p>
     </div>
   </div>
+-->
   <!-- /Copyright -->
   <!-- Footer Social -->
   <div class="col-md-12 col-sm-12 columns">
    <div class="social-footer">
      <ul class="list-inline social-list">
-       <li><a href="" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-       <li><a href="" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+       <li><a href="https://www.facebook.com/AstorionMediaCommSolution/" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+       <li><a href="https://www.twitter.com/AstorionGroup/" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
        <li><a href="" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
-       <li><a href="" class="ToolTip" title="Pinterest"><span class="fa fa-pinterest"></span></a></li>
-       <li><a href="" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
+       <li><a href="http://www.linkedin.com/company/astorion-media-solutions" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
      </ul>
    </div>
  </div>

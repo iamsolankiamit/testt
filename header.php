@@ -43,8 +43,8 @@
             <div class="col-md-6 col-sm-6 columns">
               <div class="header-top-left">
                 <ul class="social-top">
-                  <li><a href="https://www.facebook.com/AstorionMediaSolutions" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
-                  <li><a href="https://www.twitter.com/AstorionGroup" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+                  <li><a href="https://www.facebook.com/AstorionMediaCommSolution/" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+                  <li><a href="https://www.twitter.com/AstorionGroup/" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
                   <li><a href="" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
                   <li><a href="http://www.linkedin.com/company/astorion-media-solutions" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
                 </ul>
@@ -81,8 +81,9 @@
                       <li class="dropdown"><a href="/why.php" >Why Astorion</a></li>
                       <li class="dropdown"><a href="/media-offered.php" >Media Offered</a></li>
                       <li class="dropdown"><a href="/clientele.php" >Clientele</a></li>
-                      <li class="dropdown"><a href="/contactus.php" >Contact</a></li>
+                      <li class="dropdown"><a href="/contact-us.php" >Contact</a></li>
                       <li class="dropdown"><a href="/login.php" >Login</a></li>
+
                     </ul>
                   </div><!-- /.navbar-collapse -->
                 </nav>
