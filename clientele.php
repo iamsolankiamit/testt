@@ -43,7 +43,7 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -68,10 +68,10 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/hdfc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/hdfc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -92,10 +92,10 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/pnb.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/pnb.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -117,10 +117,10 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/acc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/acc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -142,10 +142,10 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/alok.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/alok.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -167,10 +167,10 @@
       <div class="element-inner animation fadeInRight delay2 animation-active">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/boi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/boi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -192,7 +192,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -217,7 +217,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -242,10 +242,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/davp.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/davp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -267,7 +267,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -293,7 +293,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -319,7 +319,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -345,10 +345,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/intex.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/intex.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -371,10 +371,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/lt.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/lt.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -396,10 +396,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/parvati.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/parvati.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -421,7 +421,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -446,10 +446,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/master_mind.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/master_mind.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -471,7 +471,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -496,7 +496,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -522,7 +522,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -548,7 +548,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -574,7 +574,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -600,10 +600,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/sosyo.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/sosyo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -626,10 +626,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/steelfab.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/steelfab.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -652,7 +652,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -678,7 +678,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -704,7 +704,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
@@ -730,10 +730,10 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/tulsi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="img/demo/portfolio/webdesign/tulsi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
 -->
         </div>
@@ -756,7 +756,7 @@
       <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
-        <img src="img/demo/portfolio/webdesign/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
           <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
