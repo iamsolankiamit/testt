@@ -431,7 +431,7 @@ Astorion is proud to be working together with local government to establish revi
      <ul class="list-inline social-list">
        <li><a href="https://www.facebook.com/AstorionMediaCommSolution/" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
        <li><a href="https://www.twitter.com/AstorionGroup/" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-       <li><a href="" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
+       <li><a href="https://plus.google.com/114133293590601912686" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
        <li><a href="http://www.linkedin.com/company/astorion-media-solutions" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
      </ul>
    </div>

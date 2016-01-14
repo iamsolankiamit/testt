@@ -46,16 +46,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Bank of Baroda</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Bank of Baroda</a></h3>
       <p>We did a campaign for Bank of Baroda in Mumbai, where we developed a new medium at BCT Garden, and at Borivali</p>
     </div>
   </div>
@@ -64,23 +63,22 @@
 <!-- /Portfolio Element -->
 
      <!-- Portfolio Element -->
-     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 0px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+     <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
+      <div class="element-inner animation fadeInRight delay2">
 
        <div class="overlay-wrapper">
         <img src="img/clientele/hdfc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/hdfc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/hdfc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">HDFC Bank</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">HDFC Bank</a></h3>
       <p>We did a campaign for HDFC Bank in Silvassa, where we developed a new medium of Bus Branding and also did a hoarding at Vapi</p>
     </div>
   </div>
@@ -95,16 +93,15 @@
         <img src="img/clientele/pnb.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/pnb.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/pnb.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Punjab National Bank</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Punjab National Bank</a></h3>
       <p>We did a campaign for Punjab National Bank in Surat, on Unipoles at Surat Main Station</p>
     </div>
   </div>
@@ -120,16 +117,15 @@
         <img src="img/clientele/acc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/acc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/acc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">ACC</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">ACC</a></h3>
       <p>We did Campaign for ACC Cement in Silvassa/Dadra &amp; Nagar Haveli, on Pole Kiosks in D&amp;NH</p>
     </div>
   </div>
@@ -145,16 +141,15 @@
         <img src="img/clientele/alok.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/alok.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/alok.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Alok Public School</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Alok Public School</a></h3>
       <p>We did a campaign for Alok Public School, where we displayed the ads on Pole Kiosks and Mobile Hoardings in Dadra &amp; Nagar Haveli</p>
     </div>
   </div>
@@ -170,16 +165,15 @@
         <img src="img/clientele/boi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/boi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/boi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Bank of India</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Bank of India</a></h3>
       <p>We did campaign for Bank of India, and displayed their ad on Mini Hoardings and FOB Boards.</p>
     </div>
   </div>
@@ -195,16 +189,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">CMC</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">CMC</a></h3>
       <p>We did campaign for CMC and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
     </div>
   </div>
@@ -220,16 +213,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Dadra Resort</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Dadra Resort</a></h3>
       <p>We did campaign for Dadra Resort and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
     </div>
   </div>
@@ -245,16 +237,15 @@
         <img src="img/clientele/davp.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/davp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/davp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">DAVP</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">DAVP</a></h3>
       <p>Being registered with DAVP, Ministry of Information and Broadcasting, we did campaign for DAVP in Silvassa on Pole Kiosks</p>
     </div>
   </div>
@@ -270,16 +261,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Heritage Marbles</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Heritage Marbles</a></h3>
       <p>We did campaign for Heritage Marbles and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
     </div>
   </div>
@@ -296,16 +286,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">ICICI Bank &amp; ICICI Prudential</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">ICICI Bank &amp; ICICI Prudential</a></h3>
       <p>We have done event campaign for ICICI Bank &amp; ICICI Prudential Life Insurance Pvt Ltd</p>
     </div>
   </div>
@@ -322,16 +311,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">IDEA</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">IDEA</a></h3>
       <p>We have done event campaign for ICICI Bank &amp; ICICI Prudential Life Insurance Pvt Ltd and also done advertising campaign in Silvassa on Pole Kiosks</p>
     </div>
   </div>
@@ -348,16 +336,15 @@
         <img src="img/clientele/intex.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/intex.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/intex.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Intex Mobiles</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Intex Mobiles</a></h3>
       <p>We have done advertising campaign in Vapi , by advertising on boards on Vapi FOB and Station.</p>
     </div>
   </div>
@@ -374,16 +361,15 @@
         <img src="img/clientele/lt.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/lt.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/lt.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">LT Fabrics</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">LT Fabrics</a></h3>
       <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
@@ -399,16 +385,15 @@
         <img src="img/clientele/parvati.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/parvati.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/parvati.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Parvati Fabrics</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Parvati Fabrics</a></h3>
       <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
@@ -424,16 +409,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Mahindra &amp; Mahindra</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Mahindra &amp; Mahindra</a></h3>
       <p>We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa</p>
     </div>
   </div>
@@ -449,16 +433,15 @@
         <img src="img/clientele/master_mind.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/master_mind.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/master_mind.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Mastermind Services</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Mastermind Services</a></h3>
       <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
@@ -474,16 +457,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Matrudhara Dairy</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Matrudhara Dairy</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks in Silvassa and on Boards in Vapi FOB &amp; Station.</p>
     </div>
   </div>
@@ -499,16 +481,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Nitco Marble</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Nitco Marble</a></h3>
       <p>We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa</p>
     </div>
   </div>
@@ -525,16 +506,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">OIDC</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">OIDC</a></h3>
       <p>We have done Promotional campaign in Daman, Diu &amp; dadra &amp; Nagar Haveli , for Saarthi Bus Sewa , an initiative started by OIDC Daman &amp; Diu</p>
     </div>
   </div>
@@ -551,16 +531,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Orion Villa</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Orion Villa</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, and Mobile Hoarding in Silvassa</p>
     </div>
   </div>
@@ -577,16 +556,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Pramukh Developers</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Pramukh Developers</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Bus Branding, in Silvassa</p>
     </div>
   </div>
@@ -603,16 +581,15 @@
         <img src="img/clientele/sosyo.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/sosyo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/sosyo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Sosyo – Hajoori &amp; Sons</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Sosyo – Hajoori &amp; Sons</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, in  Silvassa and Boards at Vapi Station and FOB</p>
     </div>
   </div>
@@ -629,16 +606,15 @@
         <img src="img/clientele/steelfab.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/steelfab.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/steelfab.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Steelfab Building Systems</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Steelfab Building Systems</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks, in Silvassa, Boards at Vapi FOB, and SEO for Steelfab Group.</p>
     </div>
   </div>
@@ -655,16 +631,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Sterling &amp; Wilson</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Sterling &amp; Wilson</a></h3>
       <p>We have done advertising campaign in Surat , by advertising on Unipoles, in Surat Station</p>
     </div>
   </div>
@@ -681,16 +656,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">SVG Jewellers Pvt Ltd</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">SVG Jewellers Pvt Ltd</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
     </div>
   </div>
@@ -707,16 +681,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Treat Resort</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Treat Resort</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
     </div>
   </div>
@@ -733,16 +706,15 @@
         <img src="img/clientele/tulsi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/tulsi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/tulsi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Tulsi Villa - Prem Developers</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Tulsi Villa - Prem Developers</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Mobile Hoarding in Silvassa</p>
     </div>
   </div>
@@ -759,16 +731,15 @@
         <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/demo/portfolio/webdesign/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--          <a href="projects-single.html"><span class="fa fa-share"></span></a>
--->
+          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="projects-single.html"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><strong style="color:#f7505a !important">Wonderland Resort</strong></h3>
+      <h3 class="portfolio-item-title"><a href="projects-single.html">Wonderland Resort</a></h3>
       <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
     </div>
   </div>
@@ -890,7 +861,7 @@
      <ul class="list-inline social-list">
        <li><a href="https://www.facebook.com/AstorionMediaCommSolution/" class="ToolTip" title="Facebook"><span class="fa fa-facebook"></span></a></li>
        <li><a href="https://www.twitter.com/AstorionGroup/" class="ToolTip" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-       <li><a href="" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
+       <li><a href="https://plus.google.com/114133293590601912686" class="ToolTip" title="Google+"><span class="fa fa-google-plus"></span></a></li>
        <li><a href="http://www.linkedin.com/company/astorion-media-solutions" class="ToolTip" title="Linkedin"><span class="fa fa-linkedin"></span></a></li>
      </ul>
    </div>
