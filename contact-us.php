@@ -13,7 +13,7 @@
                     	</div>
                     	<div class="breadcrumbs-wrapper">
 							<ol class="breadcrumb">
-  								<li><a href="#">Home</a></li>
+  								<li><a href="/index.php">Home</a></li>
 								<li class="active">Contact Us</li>
 							</ol>
                 		</div>
@@ -109,7 +109,7 @@
                             	<ul class="list-inline">
                                 	<li><a href="/index.php">Home</a></li>
                                   <li><a href="/about-us.php">About Us</a></li>
-                                  <li><a href="">Blog</a></li>
+                                  <li><a href="/blog.php">Blog</a></li>
                                   <li><a href="">Portfolio</a></li>                                                                        
                                   <li><a href="/contact-us.php">Contact</a></li>
                                 </ul>

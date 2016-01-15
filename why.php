@@ -44,7 +44,7 @@
                   <div class="col-sm-6">
                       <h4 class="fancy-title animation fadeInLeft animation-active"><span>Bus Branding</span></h4>
             <p class="animation fadeInLeft animation-active text-justify">A renowned Bank wanted to target the Corporate in Dadra &amp; Nagar Haveli, Daman &amp; Vapi. We developed tie ups with more than 100 Corporate for advertising on the Corporate buses used for conveyance and travelling of their employees.</p>
-                        <a href="#" class="btn btn-primary btn-sm btn-alt animation fadeInLeft animation-active">Read More</a>
+                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInLeft animation-active">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
@@ -70,7 +70,7 @@
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInRight animation-active"><span>Mobile Hoardings</span></h4>
             <p class="animation fadeInRight animation-active text-justify">Hoardings have the restriction of location as they are fixed. Customer had to take 4 hoardings to cater to four different site. Thus we developed a 4 sided Mobile Hoarding,  which can be placed wherever customer wants, providing him the flexibility of reaching his targets directly</p>
-                        <a href="#" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
+                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
@@ -87,7 +87,7 @@
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInLeft"><span>Mini Hoardings</span></h4>
             <p class="animation fadeInLeft text-justify">At Borivali station, one will find either boards or hoardings. We developed a back-lit Mini Hoarding, which was distinctively visible on the crowded station.</p>
-                        <a href="#" class="btn btn-primary btn-sm btn-alt animation fadeInLeft">Read More</a>
+                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInLeft">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
@@ -114,7 +114,7 @@
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInRight"><span>Gardens</span></h4>
             <p class="animation fadeInRight text-justify">On requirement of a PSU bank, we developed a innovative branding activity at Mumbai Central, by developing the Garden Triangle. This adds to the beauty of the station as well as increases the eye hits and Brand recall.</p>
-                        <a href="#" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
+                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
@@ -179,7 +179,7 @@
        <ul class="list-inline">
          <li><a href="/index.php">Home</a></li>
          <li><a href="/about-us.php">About Us</a></li>
-         <li><a href="">Blog</a></li>
+         <li><a href="/blog.php">Blog</a></li>
          <li><a href="">Portfolio</a></li>
          <li><a href="/contact-us.php">Contact</a></li>
        </ul>
