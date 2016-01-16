@@ -55,10 +55,10 @@
                         </div>
                         <div class="white-space space-small"></div>
                     </div>
-                    <div class="col-md-6" style="height:250px; background-color:#d9d9d9">
+                    <div class="col-md-6" style="height:450px; background-color:#d9d9d9">
                         <div class="gmap-wrapper"><div id="google-map"></div></div>
 <!--
-                        <!-- Form --
+                        <!-- Form 
             						<form class="form-horizontal" role="form">
             							<div class="form-group">
             								<div class="col-sm-6">
@@ -78,7 +78,7 @@
             								</div>
             							</div>
             						</form>
-                        <!-- /Form --
+                        <!-- /Form 
 
                         <div class="white-space space-small"></div>
 -->                    </div>
@@ -107,11 +107,13 @@
   						<div class="col-md-12 col-sm-12 columns">
                         	<div class="menu-footer">
                             	<ul class="list-inline">
-                                	<li><a href="/index.php">Home</a></li>
-                                  <li><a href="/about-us.php">About Us</a></li>
-                                  <li><a href="/blog.php">Blog</a></li>
-                                  <li><a href="">Portfolio</a></li>                                                                        
-                                  <li><a href="/contact-us.php">Contact</a></li>
+                                <li><a href="/index.php">Home</a></li>
+                                <li><a href="/about-us.php">About Us</a></li>
+                                <li><a href="/why.php">Why Astorion</a></li>
+                                <li><a href="/blog.php">Blog</a></li>
+                                <li><a href="/media-offered.php" >Media Offered</a></li>
+                                <li><a href="/clientele.php" >Clientele</a></li>
+                                <li><a href="/contact-us.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -211,7 +213,7 @@
 	<script src="twitter/jquery.tweet.js" type="text/javascript"></script>
 
     <!-- Google Maps -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBaPEC0XHtk63VsaCqlcHil6MWoFM0kOOM&sensor=false"></script>
 
     <!-- Load Scripts -->
 	<script src="js/themejs/application.js"></script>

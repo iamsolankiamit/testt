@@ -61,8 +61,10 @@
               <ul class="list-inline">
                 <li><a href="/index.php">Home</a></li>
                 <li><a href="/about-us.php">About Us</a></li>
+                <li><a href="/why.php">Why Astorion</a></li>
                 <li><a href="/blog.php">Blog</a></li>
-                <li><a href="">Portfolio</a></li>                                                                        
+                <li><a href="/media-offered.php" >Media Offered</a></li>
+                <li><a href="/clientele.php" >Clientele</a></li>
                 <li><a href="/contact-us.php">Contact</a></li>
               </ul>
             </div>
@@ -156,7 +158,7 @@
 	<script src="twitter/jquery.tweet.js" type="text/javascript"></script>
 
     <!-- Google Maps -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBaPEC0XHtk63VsaCqlcHil6MWoFM0kOOM&sensor=false"></script>
 
     <!-- Load Scripts -->
 	<script src="js/themejs/application.js"></script>

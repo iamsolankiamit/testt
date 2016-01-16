@@ -621,8 +621,8 @@ triggerOnce: true });
 gfx(document).ready(function () {
 
 if (gfx('#google-map-footer').length>0) {
-	var e=new google.maps.LatLng(20.2575883,73.0104683),
-		o={zoom:17,center:new google.maps.LatLng(20.2575883,73.0104683),
+	var e=new google.maps.LatLng(20.264927, 73.004852),
+		o={zoom:17,center:new google.maps.LatLng(20.264927, 73.004852),
 		mapTypeId:google.maps.MapTypeId.ROADMAP,
 		mapTypeControl:false,
 		scrollwheel:false,
@@ -636,10 +636,10 @@ if (gfx('#google-map-footer').length>0) {
 		google.maps.event.addDomListener(window,"resize",function(){var e=n.getCenter();
 		google.maps.event.trigger(n,"resize"),n.setCenter(e)});
 
-		var g='<div class="map-marker"><h4 class="color-dark xbold">AVENDOR</h4><p>United States of America</p><p>New York. 123 Fifth Avenue</p></div>',a=new google.maps.InfoWindow({content:g})
-		,t=new google.maps.MarkerImage("img/theme/google-marker.png",new google.maps.Size(157,70),
+		var g='<div class="map-marker"><h4 class="color-dark xbold">ASTORION</h4><p>D &amp; n H, India</p><p>Silvassa, Garden City.</p></div>',a=new google.maps.InfoWindow({content:g})
+		,t=new google.maps.MarkerImage("img/theme/logo-ams-bw.png",new google.maps.Size(157,70),
 		new google.maps.Point(0,0),new google.maps.Point(75,50)),
-		i=new google.maps.LatLng(37.331789, -122.029620),
+		i=new google.maps.LatLng(20.264927, 73.004852),
 		p=new google.maps.Marker({position:i,map:n,icon:t,zIndex:3});
 		google.maps.event.addListener(p,"click",function(){a.open(n,p)}),
 		gfx(".gmap-button").click(function(){gfx("#google-map-footer").slideToggle(300,function(){google.maps.event.trigger(n,"resize"),n.setCenter(e)}),
@@ -649,8 +649,8 @@ if (gfx('#google-map-footer').length>0) {
 
 if (gfx('#google-map').length>0) {
 
-	var e=new google.maps.LatLng(20.2575883,73.0104683),
-		o={zoom:17,center:new google.maps.LatLng(20.2575883,73.0104683),
+	var e=new google.maps.LatLng(20.264927, 73.004852),
+		o={zoom:17,center:new google.maps.LatLng(20.264927, 73.004852),
 		mapTypeId:google.maps.MapTypeId.ROADMAP,
 		mapTypeControl:false,
 		scrollwheel:false,
@@ -667,7 +667,7 @@ if (gfx('#google-map').length>0) {
 		var g='<div class="map-marker"><h4 class="color-dark xbold">ASTORION</h4><p>D &amp; n H, India</p><p>Silvassa, Garden City.</p></div>',a=new google.maps.InfoWindow({content:g})
 		,t=new google.maps.MarkerImage("img/theme/logo-ams-bw.png",new google.maps.Size(157,70),
 		new google.maps.Point(0,0),new google.maps.Point(75,50)),
-		i=new google.maps.LatLng(20.2575883,73.0104683),
+		i=new google.maps.LatLng(20.264927, 73.004852),
 		p=new google.maps.Marker({position:i,map:n,icon:t,zIndex:3});
 		google.maps.event.addListener(p,"click",function(){a.open(n,p)}),
 		gfx(".gmap-button").click(function(){gfx("#google-map").slideToggle(300,function(){google.maps.event.trigger(n,"resize"),n.setCenter(e)}),

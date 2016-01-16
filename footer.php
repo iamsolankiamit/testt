@@ -1,4 +1,3 @@
-
     <!-- Footer Container -->
     <div class="footer-wrapper">
 
@@ -27,8 +26,10 @@
                               <ul class="list-inline">
                                   <li><a href="/index.php">Home</a></li>
                                   <li><a href="/about-us.php">About Us</a></li>
+                                  <li><a href="/why.php">Why Astorion</a></li>
                                   <li><a href="/blog.php">Blog</a></li>
-                                  <li><a href="">Portfolio</a></li>                                                                        
+                                  <li><a href="/media-offered.php" >Media Offered</a></li>
+                                  <li><a href="/clientele.php" >Clientele</a></li>
                                   <li><a href="/contact-us.php">Contact</a></li>
                                 </ul>
                             </div>
@@ -124,13 +125,15 @@
     
   <!-- Pie Chart -->
   <script src="js/themejs/jquery.easypiechart.min.js" type="text/javascript"></script>
- 
+
   <!-- Twitter -->
   <script src="twitter/jquery.tweet.js" type="text/javascript"></script>
     
     <!-- Google Maps -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
-   
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBaPEC0XHtk63VsaCqlcHil6MWoFM0kOOM&sensor=true"></script>
+<!--    <script src='//google-maps-utility-library-v3.googlecode.com/svn/tags/markerclustererplus/2.0.14/src/markerclusterer_packed.js' type='text/javascript'></script>
+    <script src='//google-maps-utility-library-v3.googlecode.com/svn/trunk/richmarker/src/richmarker-compiled.js' type='text/javascript'></script>
+-->
     <!-- Load Scripts -->
   <script src="js/themejs/application.js"></script>
 

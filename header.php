@@ -75,8 +75,25 @@
                   </div>
                   <!-- Collect the nav links, forms, and other content for toggling -->
                   <div class="collapse navbar-collapse" id="gfx-collapse">
+<!--
+<?php echo '' . $_SERVER['REQUEST_URI']; ?>
+-->
                     <ul class="nav navbar-nav gfx-nav">
-                      <li class="dropdown active"><a href="/index.php" >Home</a></li>
+<!--                      <#?php if ($_SERVER['REQUEST_URI'] == "/index.php" ): ?>
+                        {
+-->                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'index.php'){echo 'active'; }else { echo ''; } ?>"><a href="/index.php" >Home</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'about-us.php'){echo 'active'; }else { echo ''; } ?>"><a href="/about-us.php" >About Us</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why.php'){echo 'active'; }else { echo ''; } ?>"><a href="/why.php" >Why Astorion</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'media-offered.php'){echo 'active'; }else { echo ''; } ?>"><a href="/media-offered.php" >Media Offered</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'clientele.php'){echo 'active'; }else { echo ''; } ?>"><a href="/clientele.php" >Clientele</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'contact-us.php'){echo 'active'; }else { echo ''; } ?>"><a href="/contact-us.php" >Contact</a></li>
+                          <li class="dropdown <?php if(basename($_SERVER['SCRIPT_NAME']) == 'login.php'){echo 'active'; }else { echo ''; } ?>"><a href="/login.php" >Login</a></li>
+<!--                        }
+                      <#?php endif ?>
+-->
+                    </ul>
+<!--                    <ul class="nav navbar-nav gfx-nav">
+                      <li class="dropdown"><a href="/index.php" >Home</a></li>
                       <li class="dropdown"><a href="/about-us.php" >About Us</a></li>
                       <li class="dropdown"><a href="/why.php" >Why Astorion</a></li>
                       <li class="dropdown"><a href="/media-offered.php" >Media Offered</a></li>
@@ -85,6 +102,7 @@
                       <li class="dropdown"><a href="/login.php" >Login</a></li>
 
                     </ul>
+-->
                   </div><!-- /.navbar-collapse -->
                 </nav>
               </div>
