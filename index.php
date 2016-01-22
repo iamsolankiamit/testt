@@ -89,26 +89,122 @@
  <div class="white-space space-big"></div>
  <div class="row">
    <div class="col-md-12 columns">
+   <!-- Carousel -->
+    <div class="carousel-box" >
+      <div class="carousel carousel-simple" data-carousel-autoplay="false" data-carousel-items="5" data-carousel-nav="true" data-carousel-pagination="true"  data-carousel-speed="1000">
+        <div class="carousel-item">
+          <img src="img/clients/1.png" title="Nitco Marble" alt="Brand 1" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/2.png" title="Steelfab Building Systems" alt="Brand 2" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/3.png" title="Bank of India" alt="Brand 3" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/4.png" title="Bank of Baroda" alt="Brand 4" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/5.png" title="Parvati Fabrics Limited" alt="Brand 5" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/6.png" title="" alt="Brand 6" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/7.png" title="" alt="Brand 7" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/8.png" title="" alt="Brand 8" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/9.png" title="" alt="Brand 9" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/10.png" title="" alt="Brand 10" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/11.png" title="" alt="Brand 11" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/12.png" title="" alt="Brand 12" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/13.png" title="" alt="Brand 13" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/14.png" title="" alt="Brand 14" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/15.png" title="" alt="Brand 15" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/16.png" title="Nitco Marble" alt="Brand 1" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/17.png" title="Steelfab Building Systems" alt="Brand 2" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/18.png" title="Bank of India" alt="Brand 3" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/19.png" title="Bank of Baroda" alt="Brand 4" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/20.png" title="Parvati Fabrics Limited" alt="Brand 5" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/21.png" title="" alt="Brand 6" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/22.png" title="" alt="Brand 7" style="height: 90px; max-width: 100%;">
+        </div>
+<!--        <div class="carousel-item">
+          <img src="img/clients/23.png" title="" alt="Brand 8" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+        <div class="carousel-item">
+          <img src="img/clients/24.png" title="" alt="Brand 9" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/25.png" title="" alt="Brand 10" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/26.png" title="" alt="Brand 11" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/27.png" title="" alt="Brand 12" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/28.png" title="" alt="Brand 13" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/29.png" title="" alt="Brand 14" style="height: 90px; max-width: 100%;">
+        </div>
+      </div>
+    </div>
+    <!-- /Carousel -->
      <!-- Carousel -->
+<!--
      <div class="carousel-box" >
        <div class="carousel carousel-simple" data-carousel-autoplay="6000" data-carousel-items="5" data-carousel-nav="false" data-carousel-pagination="false"  data-carousel-speed="1000">
-        <div class="carousel-item">
+        <div class="carousel-item" style="padding-top:4px">
          <img src="img/clients/1.png" class="img-transparency" alt="Brand 1">
        </div>
-       <div class="carousel-item">
-         <img src="img/clients/2.png" class="img-transparency" alt="Brand 2">
+       <div class="carousel-item" style="padding-top:6px">
+         <img src="img/clients/5.png" class="img-transparency" alt="Brand 2">
        </div>
        <div class="carousel-item">
          <img src="img/clients/3.png" class="img-transparency" alt="Brand 3">
        </div>
-       <div class="carousel-item">
+       <div class="carousel-item" style="padding-top:8px">
          <img src="img/clients/4.png" class="img-transparency" alt="Brand 4">
        </div>
-       <div class="carousel-item">
-         <img src="img/clients/5.png" class="img-transparency" alt="Brand 5">
+       <div class="carousel-item" style="padding-top:20px">
+         <img src="img/clients/2.png" class="img-transparency" alt="Brand 5">
        </div>
      </div>
    </div>
+-->
    <!-- /Carousel -->
  </div>
 </div>

@@ -29,702 +29,502 @@
 <div class="main-wrapper">
 
  <div class="container">
-
   <div class="white-space space-big"></div>
-
-  <div class="row">
-   <div class="col-md-8 col-md-offset-2">
-    <p class="lead text-center">We have a spread of varied, innovative and customized medium offerings at different locations in DNH, Daman & Diu, South Gujarat & Mumbai.</p>
-    <div class="white-space space-small"></div>
-  </div>
-</div>
-
-<div class="row">
- <div class="col-md-12">
-
-  <!-- PORTFOLIO -->
-  <div class="portfolio clearfix">
-<!--
-    <ul id="filters" class="option-set">
-     <li><a href="" class="filter selected" data-filter="*">All</a></li>
-     <li><a href="" class="filter" data-filter=".branding">Branding</a></li>
-     <li><a href="" class="filter" data-filter=".print">Print</a></li>
-     <li><a href="" class="filter" data-filter=".design">Web Design</a></li>
-   </ul>
--->
-<div class="row">
-  <div class="col-md-12">
-  <div class="portfolio clearfix">
-<!--Outdoor Media-->
-<hr/>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="fancy-title text-center animation fadeInUp"><span>Outdoor Media</span></h2>
-                </div>
-              </div>
-                <!-- Portfolio Grid -->
-                 <div class="portfolio-grid portfolio-3-cols portfolio-classic">
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/pole.jpg" width="1200" height="900" alt="Portfolio 1">
-
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/pole.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Pole Kiosks</a></h3>
-                    <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astorion has the sole right of Advertising on street Pole kiosks across D&NH, on three routes – Naroli Road, Samarvani-Rakholi Route, Tigra- Dadra Route.</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/hoardings.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/hoardings.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Hoardings</a></h3>
-                    <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have varied hoarding sites across the city and highways.</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/mobile_hoardings.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/mobile_hoardings.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Mobile Hoardings</a></h3>
-                    <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an innovation developed by Astorion Media Solutions, Mobile Hoardings are redefining transit outdoor media and are a cost effective way of covering a large demographic profile.</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/unipole.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/unipole.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Unipoles</a></h3>
-                    <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These structures are developed in Surat, at Surat Main Station. Being Back-lit and with double sided view it stands out among the other hoardings standing at the station.</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/mini_hoarding.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/mini_hoarding.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Mini Hoarding</a></h3>
-                    <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These Back-lit structures are developed at Borivali Main Station Entrance are the only back-lit mediums, and are to stand out amongst all the non-lit mediums in that area.</p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/boards.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/boards.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Boards</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/bus.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/bus.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Bus Panel Branding</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/garden.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/garden.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Garden Branding</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/rickshaw.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/rickshaw.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Auto Rickshaw Branding</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-
-                   <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/train.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/train.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Train wraps</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              </div>
-              <!-- /Portfolio Grid -->
-                <!-- Portfolio Grid -->
-<!--Digital Media-->
-<hr/>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="fancy-title text-center animation fadeInUp"><span>Digital Media</span></h2>
-                </div>
-              </div>
-              <div class="portfolio-grid portfolio-3-cols portfolio-classic">
-              <!-- Portfolio Element -->
-                 <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                  <div class="element-inner animation fadeInRight delay2">
-
-                   <div class="overlay-wrapper">
-                    <img src="img/media/seo.jpg" width="1200" height="900" alt="Portfolio 1">
-                    <div class="overlay-wrapper-content">
-                     <div class="overlay-details">
-                      <a href="img/demo/portfolio/webdesign/seo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                      <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                    </div>
-                    <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                  </div>
-                </div>
-                <div class="portfolio-item-content panel panel-default" style="height:220px">
-                 <div class="panel-body">
-                  <h3 class="portfolio-item-title"><a href="projects-single.html">SEO</a></h3>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            </div>
-            <!-- /Portfolio Element --><!-- Portfolio Element -->
-                 <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                  <div class="element-inner animation fadeInRight delay2">
-
-                   <div class="overlay-wrapper">
-                    <img src="img/media/email.jpg" width="1200" height="900" alt="Portfolio 1">
-                    <div class="overlay-wrapper-content">
-                     <div class="overlay-details">
-                      <a href="img/demo/portfolio/webdesign/email.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                      <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                    </div>
-                    <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                  </div>
-                </div>
-                <div class="portfolio-item-content panel panel-default" style="height:220px">
-                 <div class="panel-body">
-                  <h3 class="portfolio-item-title"><a href="projects-single.html">Email Marketing</a></h3>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            </div>
-            <!-- /Portfolio Element --><!-- Portfolio Element -->
-                 <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                  <div class="element-inner animation fadeInRight delay2">
-
-                   <div class="overlay-wrapper">
-                    <img src="img/media/sms.jpg" width="1200" height="900" alt="Portfolio 1">
-                    <div class="overlay-wrapper-content">
-                     <div class="overlay-details">
-                      <a href="img/demo/portfolio/webdesign/sms.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                      <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                    </div>
-                    <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                  </div>
-                </div>
-                <div class="portfolio-item-content panel panel-default" style="height:220px">
-                 <div class="panel-body">
-                  <h3 class="portfolio-item-title"><a href="projects-single.html">SMS Marketing</a></h3>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            </div>
-            <!-- /Portfolio Element -->
-            </div>
-<!--Print Media-->
-<hr/>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="fancy-title text-center animation fadeInUp"><span>Print Media</span></h2>
-                </div>
-              </div>
-              <div class="portfolio-grid portfolio-2-cols portfolio-classic">
-              <!-- Portfolio Element -->
-                 <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                  <div class="element-inner animation fadeInRight delay2">
-
-                   <div class="overlay-wrapper">
-                    <img src="img/media/newspaper.jpg" width="1200" height="900" alt="Portfolio 1">
-                    <div class="overlay-wrapper-content">
-                     <div class="overlay-details">
-                      <a href="img/demo/portfolio/webdesign/newspaper.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                      <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                    </div>
-                    <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                  </div>
-                </div>
-                <div class="portfolio-item-content panel panel-default" style="height:220px">
-                 <div class="panel-body">
-                  <h3 class="portfolio-item-title"><a href="projects-single.html">Newspapers</a></h3>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            </div>
-            <!-- /Portfolio Element --><!-- Portfolio Element -->
-                 <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                  <div class="element-inner animation fadeInRight delay2">
-
-                   <div class="overlay-wrapper">
-                    <img src="img/media/pamplet.jpg" width="1200" height="900" alt="Portfolio 1">
-                    <div class="overlay-wrapper-content">
-                     <div class="overlay-details">
-                      <a href="img/demo/portfolio/webdesign/pamplet.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                      <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                    </div>
-                    <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                  </div>
-                </div>
-                <div class="portfolio-item-content panel panel-default" style="height:220px">
-                 <div class="panel-body">
-                  <h3 class="portfolio-item-title"><a href="projects-single.html">Pamplets</a></h3>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            </div>
-            <!-- /Portfolio Element -->
-            </div>
-<!--Content-->
-<hr/>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="fancy-title text-center animation fadeInUp"><span>Content</span></h2>
-                </div>
-              </div>
-              <div class="portfolio-grid portfolio-3-cols portfolio-classic">
-                <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/logo.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/logo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Logo Designing</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/content.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/content.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Content Designing</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element --><!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/product.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/product.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Product designing</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              </div>
-<!--Other BTL Activities-->
-<hr/>
-                <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="fancy-title text-center animation fadeInUp"><span>Other BTL Activities</span></h2>
-                </div>
-              </div>
-                <div class="portfolio-grid portfolio-3-cols portfolio-classic">
-                <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/event.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/event.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Events</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/tagging.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/tagging.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Tagging</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/society.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/society.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Society Promotions</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/corporate.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/corporate.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Corporate Promotions</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
-                   <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-                    <div class="element-inner animation fadeInRight delay2">
-
-                     <div class="overlay-wrapper">
-                      <img src="img/media/product_launch.jpg" width="1200" height="900" alt="Portfolio 1">
-                      <div class="overlay-wrapper-content">
-                       <div class="overlay-details">
-                        <a href="img/demo/portfolio/webdesign/product_launch.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-                        <a href="projects-single.html"><span class="fa fa-share"></span></a>
-
-                      </div>
-                      <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
-                    </div>
-                  </div>
-                  <div class="portfolio-item-content panel panel-default" style="height:220px">
-                   <div class="panel-body">
-                    <h3 class="portfolio-item-title"><a href="projects-single.html">Product Launch</a></h3>
-                    <p></p>
-                  </div>
-                </div>
-              </div>
-              </div>
-              <!-- /Portfolio Element -->
-              </div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <p class="lead text-center">We have a spread of varied, innovative and customized medium offerings at different locations in DNH, Daman & Diu, South Gujarat & Mumbai.</p>
+        <div class="white-space space-small"></div>
       </div>
-      
-      
-      
-      
+    </div>
+    <hr/>
+    <div class="row">
+                  <div class="col-md-12">
+                    
+                    <!-- PORTFOLIO -->
+          <div class="portfolio clearfix">
+              
+            <ul id="filters" class="option-set">
+              <li><a href="" class="filter selected" data-filter="*">All</a></li>
+              <li><a href="" class="filter" data-filter=".digital">digital media</a></li>
+              <li><a href="" class="filter" data-filter=".outdoor">outdoor</a></li>
+              <li><a href="" class="filter" data-filter=".event">promotional events</a></li>
+            </ul>                    
+            <!-- Portfolio Grid -->
+            <div class="portfolio-grid  portfolio-3-cols">
+            <!-- Portfolio Element -->
+                <div class="element isotope-item digital" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/seo.jpg" width="1200" height="900" alt="Portfolio 1">
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>SEO</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/seo.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="seo.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="seo.php">SEO</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item digital" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/email.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Email Marketing</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/email.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="email.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="email.php">Email Marketing</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item digital" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/sms.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>SMS Marketing</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/sms.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="sms.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="sms.php">SMS Marketing</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/event.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Events</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/event.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="event.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="event.php">Events</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/tagging.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Tagging</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/tagging.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="tagging.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="tagging.php">Tagging</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/society.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Society Promotions</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/society.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="society.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="society.php">Society Promotions</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/corporate.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Corporate Promotions</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/corporate.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="corporate.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="corporate.php">Corporate Promotions</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/product_launch.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Product Launch</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/product_launch.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="product_launch.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="product_launch.php">Product Launch</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/pole.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Pole Kiosks</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/pole.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="pole.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="pole.php">Pole Kiosks</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astorion has the sole right of Advertising on street Pole kiosks across D&NH, on three routes – Naroli Road, Samarvani-Rakholi Route, Tigra- Dadra Route.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/hoardings.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Hoardings</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/hoardings.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="hoarding.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="hoarding.php">Hoardings</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have varied hoarding sites across the city and highways.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/mobile.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Mobile Hoardings</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/mobile.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="mobile.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="mobile.php">Mobile Hoardings</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an innovation developed by Astorion Media Solutions, Mobile Hoardings are redefining transit outdoor media and are a cost effective way of covering a large demographic profile.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/unipole.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Unipoles</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/unipole.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="unipole.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="unipole.php">Unipoles</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These structures are developed in Surat, at Surat Main Station. Being Back-lit and with double sided view it stands out among the other hoardings standing at the station.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/mini.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Mini Hoarding</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/mini.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="mini.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="mini.php">Mini Hoarding</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These Back-lit structures are developed at Borivali Main Station Entrance are the only back-lit mediums, and are to stand out amongst all the non-lit mediums in that area.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/boards.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Boards</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/boards.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="boards.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="boards.php">Boards</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/bus.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Bus Panel Branding</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/bus.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="why_bus.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="why_bus.php">Bus Panel Branding</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A renowned Bank wanted to target the Corporate in Dadra & Nagar Haveli, Daman & Vapi. We developed tie ups with more than 100 Corporate for advertising on the Corporate buses used for conveyance and travelling of their employees.</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/garden.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Garden Branding</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/garden.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="garden.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="garden.php">Garden Branding</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/rickshaw.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Auto Rickshaw Branding</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/rickshaw.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="auto_rickshaw.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="auto_rickshaw.php">Auto Rickshaw Branding</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              <!-- Portfolio Element -->
+                <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
+                  <div class="element-inner animation fadeInLeft">
+                    <div class="overlay-wrapper">
+                      <img src="img/media/train.jpg" width="1200" height="900" alt="Portfolio 1">                                  
+                      <div class="overlay-wrapper-content">
+                        <div class="overlay-title"><h3>Train wraps</h3></div>  
+                        <div class="overlay-details">
+                          <a class="color-white" href="img/media/train.jpg" data-lightbox="image"><span class="livicon" data-n="plus"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                          <a class="color-white" href="train.php"><span class="livicon" data-n="more"  data-color="#ffffff" data-hovercolor="#ffffff" data-op="1" data-onparent="true"></span></a>
+                        </div>
+                        <div class="overlay-bg"></div>
+                      </div>
+                    </div> 
+                    <div class="portfolio-item-content panel panel-default" style="height:220px">
+                      <div class="panel-body">
+                        <h3 class="portfolio-item-title"><a href="train.php">Train wraps</a></h3>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                      </div>
+                    </div>                   
+                  </div>
+                </div>
+              <!-- /Portfolio Element -->
+              
+
+              
+
+            </div>
+            <!-- /Portfolio Grid -->
+          </div>
+          <!-- /PORTFOLIO-->
+        </div>
+      </div>
+  </div>
+  <hr/>
+  <div class="white-space space-medium"></div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h2 class="fancy-title text-center animation fadeInUp"><span>What We Do</span></h2>
+      <p class="lead text-center">Quisque placerat tortor augue, condimentum dignissim purus posuere ac. Donec id leo a purus eleifend viverra ac non diam. Suspendisse feugiat hendrerit ipsum non placerat.</p>
+      <div class="white-space space-small"></div>
     </div>
   </div>
-</div>
-</div>
-<!-- /PORTFOLIO-->
-</div>
-</div>
-<hr/>
-<div class="white-space space-medium"></div>
-
-              <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                      <h2 class="fancy-title text-center animation fadeInUp"><span>What We Do</span></h2>
-                        <p class="lead text-center">Quisque placerat tortor augue, condimentum dignissim purus posuere ac. Donec id leo a purus eleifend viverra ac non diam. Suspendisse feugiat hendrerit ipsum non placerat.</p>
-                      <div class="white-space space-small"></div>
-                    </div>
+  <div class="row">
+    
+    <div class="col-sm-4">
+      <div class="iconbox vertical">
+        <div class="iconbox-wrapper circle border color-default iconbox-3x">
+          <span class="livicon" data-n="responsive" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
         </div>
-              <div class="row">
-                    <div class="col-sm-4">
-
-            <div class="iconbox vertical">
-                          <div class="iconbox-wrapper circle border color-default iconbox-3x">
-                              <span class="livicon" data-n="brush" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
-                            </div>
-                            <div class="iconbox-content">
-                            <h4>Web Design</h4>
-                            <p>Turpis venenatis at laoreet. Etiam lorem nulla fuviv erra minim sed metus ege stas sapien conseto actetuer tes deros.</p>
-                          </div>
-                      </div>
-
-            <div class="white-space space-big"></div>
-                    </div>
-                    <div class="col-sm-4">
-
-            <div class="iconbox vertical">
-                          <div class="iconbox-wrapper circle border color-default iconbox-3x">
-                              <span class="livicon" data-n="responsive" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
-                            </div>
-                            <div class="iconbox-content">
-                            <h4>Responsive Ready</h4>
-                            <p>Sed volutpat ante ac venenatis scelerisque. In sed pellentesque massa. Cras auctor sem nec consectetur convallis.</p>
-                          </div>
-                      </div>
-
-            <div class="white-space space-big"></div>
-                    </div>
-                    <div class="col-sm-4">
-
-            <div class="iconbox vertical">
-                          <div class="iconbox-wrapper circle border color-default iconbox-3x">
-                              <span class="livicon" data-n="linechart" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
-                            </div>
-                            <div class="iconbox-content">
-                            <h4>Internet Marketing</h4>
-                            <p>Nunc pharetra nisl vel sapien semper rhoncus. Quisque placerat tortor augue, condimentum dignissim purus posuere ac.</p>
-                          </div>
-                      </div>
-                    </div>
+        <div class="iconbox-content">
+          <h4>News Paper</h4>
+          <p></p>
         </div>
+      </div>
+      <div class="white-space space-big"></div>
+    </div>
+    <div class="col-sm-4">
+      <div class="iconbox vertical">
+        <div class="iconbox-wrapper circle border color-default iconbox-3x">
+          <span class="livicon" data-n="brush" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
+        </div>
+        <div class="iconbox-content">
+          <h4>Content Design</h4>
+          <p></p>
+        </div>
+      </div>
+      <div class="white-space space-big"></div>
+    </div>
+    <div class="col-sm-4">
+      <div class="iconbox vertical">
+        <div class="iconbox-wrapper circle border color-default iconbox-3x">
+<!--          <span class="livicon" data-n="responsive" data-s="58" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
+-->          <span class="livicon" data-n="briefcase" data-s="80" data-c="#F7505A" data-hc="#F7505A" data-op="1" data-op="true"></span>
+        </div>
+        <div class="iconbox-content">
+          <h4>Pamplets</h4>
+          <p></p>
+        </div>
+      </div>
+      <div class="white-space space-big"></div>
+    </div>
+  </div>
 </div>
 
 </div>

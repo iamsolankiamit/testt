@@ -44,12 +44,12 @@
                   <div class="col-sm-6">
                       <h4 class="fancy-title animation fadeInLeft animation-active"><span>Bus Branding</span></h4>
             <p class="animation fadeInLeft animation-active text-justify">A renowned Bank wanted to target the Corporate in Dadra &amp; Nagar Haveli, Daman &amp; Vapi. We developed tie ups with more than 100 Corporate for advertising on the Corporate buses used for conveyance and travelling of their employees.</p>
-                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInLeft animation-active">Read More</a>
+                        <a href="why_bus.php" class="btn btn-primary btn-sm btn-alt animation fadeInLeft animation-active">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
                     <div class="col-sm-6">
-            <img src="img/demo/content/process1.jpg" class="img-responsive animation fadeInRight animation-active" alt="Process Step1">
+            <img src="img/why_astorion/bus.jpg" class="img-responsive animation fadeInRight animation-active" alt="Bus Branding" style="height:300px">
             <div class="white-space space-small"></div>
                     </div>
         </div>
@@ -63,14 +63,14 @@
               <div class="row">
                     <div class="col-sm-6">
                       <div class="white-space space-small"></div>
-            <img src="img/demo/content/process2.jpg" class="img-responsive animation fadeInLeft animation-active" alt="Process Step2">
+            <img src="img/why_astorion/mobile.jpg" class="img-responsive animation fadeInLeft animation-active" alt="Mobile Hoardings" style="height:300px">
             <div class="white-space space-small"></div>
                     </div>
                   <div class="col-sm-6">
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInRight animation-active"><span>Mobile Hoardings</span></h4>
             <p class="animation fadeInRight animation-active text-justify">Hoardings have the restriction of location as they are fixed. Customer had to take 4 hoardings to cater to four different site. Thus we developed a 4 sided Mobile Hoarding,  which can be placed wherever customer wants, providing him the flexibility of reaching his targets directly</p>
-                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
+                        <a href="why_mobile.php" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
@@ -87,13 +87,13 @@
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInLeft"><span>Mini Hoardings</span></h4>
             <p class="animation fadeInLeft text-justify">At Borivali station, one will find either boards or hoardings. We developed a back-lit Mini Hoarding, which was distinctively visible on the crowded station.</p>
-                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInLeft">Read More</a>
+                        <a href="why_mini.php" class="btn btn-primary btn-sm btn-alt animation fadeInLeft">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>
                     <div class="col-sm-6">
                       <div class="white-space space-small"></div>
-            <img src="img/demo/content/process3.jpg" class="img-responsive animation fadeInRight" alt="Process Step3">
+            <img src="img/why_astorion/mini.jpg" class="img-responsive animation fadeInRight" alt="Mini Hoardings" style="height:300px">
             <div class="white-space space-small"></div>
                     </div>
         </div>
@@ -107,14 +107,14 @@
               <div class="row">
                     <div class="col-sm-6">
                       <div class="white-space space-small"></div>
-            <img src="img/demo/content/process4.jpg" class="img-responsive animation fadeInLeft" alt="Process Step4">
+            <img src="img/why_astorion/garden.jpg" class="img-responsive animation fadeInLeft" alt="Process Step4">
             <div class="white-space space-small"></div>
                     </div>
                   <div class="col-sm-6">
                       <div class="white-space space-small"></div>
                       <h4 class="fancy-title animation fadeInRight"><span>Gardens</span></h4>
             <p class="animation fadeInRight text-justify">On requirement of a PSU bank, we developed a innovative branding activity at Mumbai Central, by developing the Garden Triangle. This adds to the beauty of the station as well as increases the eye hits and Brand recall.</p>
-                        <a href="projects-single.html" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
+                        <a href="why_garden.php" class="btn btn-primary btn-sm btn-alt animation fadeInRight">Read More</a>
 
                         <div class="white-space space-small"></div>
                     </div>

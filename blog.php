@@ -46,10 +46,10 @@
                   <div class="blog-post-side">
                                       <div class="blog-post-date">
                                           <p class="date-day">25</p>
-                                            <p class="date-month">Jul</p>
+                                          <p class="date-month">Jul</p>
                                         </div>
-                                        
-                                      <div class="post-format"></div>                                        
+<!--                                      <div class="post-format"></div>
+-->
                                     </div>  
                                     
                                     <div class="blog-post-content">
@@ -66,13 +66,14 @@
                     <div class="post-info">
                       <h3 class="post-title"><a href="blog-single-post.html">Simple Slideshow media post</a></h3>
                                 <ul class="list-inline post-meta-info">
-                        <li class="meta-author"><a href="">By: webmaster</a></li>
-                        <li class="meta-comments"><a href="">16</a></li>
-                                    <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>
+                        <li class="meta-author">By: webmaster</li>
+                        <li><a href=""><span class="fa fa-thumbs-up fa-3"></span>&nbsp;&nbsp;Like&nbsp;&nbsp;</a href=""></li>
+                        <li><a href=""><span class="fa fa-comment fa-3"></span>&nbsp;&nbsp;16</a></li>
+<!--                        <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>-->
                       </ul>
                     </div>  
                     <div class="post-content">
-                      <p>Sed volutpat nisl id massa tempor, eu fermentum mi interdum. Donec sit amet gravida nulla. Proin ac neque sem. In gravida egestas odio. In purus eros, venenatis sit amet nibh quis, scelerisque molestie nunc. <strong>Vestibulum vehicula</strong> libero elementum sapien mollis, eget adipiscing ipsum pharetra. Quisque lacinia magna quis lobortis viverra.</p>
+                      <p class="text-justify">Sed volutpat nisl id massa tempor, eu fermentum mi interdum. Donec sit amet gravida nulla. Proin ac neque sem. In gravida egestas odio. In purus eros, venenatis sit amet nibh quis, scelerisque molestie nunc. <strong>Vestibulum vehicula</strong> libero elementum sapien mollis, eget adipiscing ipsum pharetra. Quisque lacinia magna quis lobortis viverra.</p>
                     </div>
                                         <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
                                     </div> 
@@ -89,7 +90,8 @@
                                             <p class="date-month">Jul</p>
                                         </div>
                                         
-                                      <div class="post-format"></div>                                        
+<!--                                      <div class="post-format"></div>                                        
+-->
                                     </div>  
                                     
                                     <div class="blog-post-content">
@@ -99,9 +101,10 @@
                     <div class="post-info">
                       <h3 class="post-title"><a href="blog-single-post.html">Image post format</a></h3>
                                 <ul class="list-inline post-meta-info">
-                        <li class="meta-author"><a href="">By: webmaster</a></li>
-                        <li class="meta-comments"><a href="">12</a></li>
-                                    <li class="meta-tags"><a href="">news</a>, <a href="">photography</a></li>
+                        <li class="meta-author">By: webmaster</li>
+                        <li><a href=""><span class="fa fa-thumbs-up fa-3"></span>&nbsp;&nbsp;Like&nbsp;&nbsp;</a href=""></li>
+                        <li><a href=""><span class="fa fa-comment fa-3"></span>&nbsp;&nbsp;16</a></li>
+<!--                        <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>-->
                       </ul>
                     </div>  
                     <div class="post-content">
@@ -122,7 +125,8 @@
                                             <p class="date-month">Jul</p>
                                         </div>
                                         
-                                      <div class="post-format"></div>                                        
+<!--                                      <div class="post-format"></div>                                        
+-->
                                     </div>  
                                     
                                     <div class="blog-post-content">
@@ -134,9 +138,10 @@
                     <div class="post-info">
                       <h3 class="post-title"><a href="blog-single-post.html">Video post format</a></h3>
                                 <ul class="list-inline post-meta-info">
-                        <li class="meta-author"><a href="">By: webmaster</a></li>
-                        <li class="meta-comments"><a href="">15</a></li>
-                                    <li class="meta-tags"><a href="">video</a>, <a href="">exterior design</a></li>
+                        <li class="meta-author">By: webmaster</li>
+                        <li><a href=""><span class="fa fa-thumbs-up fa-3"></span>&nbsp;&nbsp;Like&nbsp;&nbsp;</a href=""></li>
+                        <li><a href=""><span class="fa fa-comment fa-3"></span>&nbsp;&nbsp;16</a></li>
+<!--                        <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>-->
                       </ul>
                     </div>  
                     <div class="post-content">
@@ -157,7 +162,8 @@
                                             <p class="date-month">Jul</p>
                                         </div>
                                         
-                                      <div class="post-format"></div>                                        
+<!--                                      <div class="post-format"></div>                                        
+-->
                                     </div>  
                                     
                                     <div class="blog-post-content">
@@ -167,9 +173,10 @@
                     <div class="post-info">
                       <h3 class="post-title"><a href="blog-single-post.html">Soundcloud Post</a></h3>
                                 <ul class="list-inline post-meta-info">
-                        <li class="meta-author"><a href="">By: webmaster</a></li>
-                        <li class="meta-comments"><a href="">34</a></li>
-                                    <li class="meta-tags"><a href="">music</a>, <a href="">soundtrack</a></li>
+                        <li class="meta-author">By: webmaster</li>
+                        <li><a href=""><span class="fa fa-thumbs-up fa-3"></span>&nbsp;&nbsp;Like&nbsp;&nbsp;</a href=""></li>
+                        <li><a href=""><span class="fa fa-comment fa-3"></span>&nbsp;&nbsp;16</a></li>
+<!--                        <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>-->
                       </ul>
                     </div>  
                     <div class="post-content">
@@ -190,16 +197,18 @@
                                             <p class="date-month">Jun</p>
                                         </div>
                                         
-                                      <div class="post-format"></div>                                        
+<!--                                      <div class="post-format"></div>                                        
+-->
                                     </div>  
                                     
                                     <div class="blog-post-content">
                     <div class="post-info">
                       <h3 class="post-title"><a href="blog-single-post.html">This is a standard simple post</a></h3>
                                 <ul class="list-inline post-meta-info">
-                        <li class="meta-author"><a href="">By: webmaster</a></li>
-                        <li class="meta-comments"><a href="">16</a></li>
-                                    <li class="meta-tags"><a href="">news</a>
+                        <li class="meta-author">By: webmaster</li>
+                        <li><a href=""><span class="fa fa-thumbs-up fa-3"></span>&nbsp;&nbsp;Like&nbsp;&nbsp;</a href=""></li>
+                        <li><a href=""><span class="fa fa-comment fa-3"></span>&nbsp;&nbsp;16</a></li>
+<!--                        <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>-->
                       </ul>
                     </div>  
                     <div class="post-content">
@@ -259,12 +268,10 @@
                 <div class="sidebar-widget">
                                   <h4 class="title-widget fancy-title"><span>Categories</span></h4>
                                   <ul class="fa-ul widget-list">
-                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Web Design</a></li>
-                                        <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Web Development</a></li>   
-                                        <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Photography</a></li>
-                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>UI Design </a></li>
-                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Resources</a></li>
-                                        <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Latest News</a></li> 
+                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Online Advertisement</a></li>
+                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Search Engine Optimization</a></li>   
+                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Out Of Home Advertising</a></li>
+                                      <li><a href=""><span class="fa-li fa  fa-angle-right"></span>Arrow Digital Signage Networks</a></li>
                                     </ul>
                                 </div>
 
@@ -299,7 +306,7 @@
                                                     </div>
                                                     <a href="#" class="post-item-title">Aliquam ut dui posuere metus</a>
                                           <ul class="list-inline post-meta-info">
-                                                      <li class="meta-date"><a href="http://smarton.weblusive.com/2014/04/04/">July 25, 2014</a></li>
+                                            <li class="meta-date"><a href="http://smarton.weblusive.com/2014/04/04/">July 25, 2014</a></li>
                                             <li class="meta-tags"><a href="">news</a>, <a href="">design</a></li>
                               </ul>
                                                 </div>
@@ -417,8 +424,10 @@
        <ul class="list-inline">
          <li><a href="/index.php">Home</a></li>
          <li><a href="/about-us.php">About Us</a></li>
-         <li><a href="">Blog</a></li>
-         <li><a href="">Portfolio</a></li>
+         <li><a href="/why.php">Why Astorion</a></li>
+         <li><a href="/blog.php">Blog</a></li>
+         <li><a href="/media-offered.php" >Media Offered</a></li>
+         <li><a href="/clientele.php" >Clientele</a></li>
          <li><a href="/contact-us.php">Contact</a></li>
        </ul>
      </div>
@@ -519,7 +528,7 @@
     <script src="twitter/jquery.tweet.js" type="text/javascript"></script>
 
     <!-- Google Maps -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBaPEC0XHtk63VsaCqlcHil6MWoFM0kOOM&sensor=false"></script>
 
     <!-- Load Scripts -->
     <script src="js/themejs/application.js"></script>

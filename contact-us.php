@@ -42,7 +42,9 @@
 -->						<div class="row">
                         	<div class="col-sm-6">
                             	<ul class="list-default fa-ul">
-                        			<li><span class="fa-li fa fa-phone color-default"></span>09574882777 / 09574883777</li>
+                        			<li><span class="fa-li fa fa-phone color-default"></span>09574882777</li>
+                                    <li><span class="fa-li fa fa-phone color-default"></span>09574883777</li>
+                                    <li><span class="fa-li fa fa-phone color-default"></span>09825142552</li>
                             		<li><span class="fa-li fa fa-envelope color-default"></span>amrit@amsads.in</li>
                         		</ul>
                             </div>

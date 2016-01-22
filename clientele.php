@@ -40,22 +40,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 0px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/bob.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/bob.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="bob.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Bank of Baroda</a></h3>
-      <p>We did a campaign for Bank of Baroda in Mumbai, where we developed a new medium at BCT Garden, and at Borivali</p>
+      <h3 class="portfolio-item-title"><a href="bob.php">Bank of Baroda</a></h3>
+      <p class="text-justify">We did a campaign for Bank of Baroda in Mumbai, where we developed a new medium at BCT Garden, and at Borivali</p>
     </div>
   </div>
 </div>
@@ -64,22 +64,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design" data-content="./portfolio/portfolio2.html">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/hdfc.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/hdfc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/hdfc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/hdfc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="hdfc.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">HDFC Bank</a></h3>
-      <p>We did a campaign for HDFC Bank in Silvassa, where we developed a new medium of Bus Branding and also did a hoarding at Vapi</p>
+      <h3 class="portfolio-item-title"><a href="hdfc.php">HDFC Bank</a></h3>
+      <p class="text-justify">We did a campaign for HDFC Bank in Silvassa, where we developed a new medium of Bus Branding and also did a hoarding at Vapi</p>
     </div>
   </div>
 </div>
@@ -87,22 +87,22 @@
 <!-- /Portfolio Element -->
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 0px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/pnb.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/pnb.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/pnb.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/pnb.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="pnb.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Punjab National Bank</a></h3>
-      <p>We did a campaign for Punjab National Bank in Surat, on Unipoles at Surat Main Station</p>
+      <h3 class="portfolio-item-title"><a href="pnb.php">Punjab National Bank</a></h3>
+      <p class="text-justify">We did a campaign for Punjab National Bank in Surat, on Unipoles at Surat Main Station</p>
     </div>
   </div>
 </div>
@@ -111,22 +111,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 204px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/acc.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/acc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/acc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/acc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="acc.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">ACC</a></h3>
-      <p>We did Campaign for ACC Cement in Silvassa/Dadra &amp; Nagar Haveli, on Pole Kiosks in D&amp;NH</p>
+      <h3 class="portfolio-item-title"><a href="acc.php">ACC</a></h3>
+      <p class="text-justify">We did Campaign for ACC Cement in Silvassa/Dadra & Nagar Haveli, on Pole Kiosks in D&NH</p>
     </div>
   </div>
 </div>
@@ -135,22 +135,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 229px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/alok.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/alok.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/alok.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/alok.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="alok.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Alok Public School</a></h3>
-      <p>We did a campaign for Alok Public School, where we displayed the ads on Pole Kiosks and Mobile Hoardings in Dadra &amp; Nagar Haveli</p>
+      <h3 class="portfolio-item-title"><a href="alok.php">Alok Public School</a></h3>
+      <p class="text-justify">We did a campaign for Alok Public School, where we displayed the ads on Pole Kiosks and Mobile Hoardings in Dadra &amp; Nagar Haveli</p>
     </div>
   </div>
 </div>
@@ -159,22 +159,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 229px;">
-      <div class="element-inner animation fadeInRight delay2 animation-active">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/boi.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/boi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/boi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/boi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="boi.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Bank of India</a></h3>
-      <p>We did campaign for Bank of India, and displayed their ad on Mini Hoardings and FOB Boards.</p>
+      <h3 class="portfolio-item-title"><a href="boi.php">Bank of India</a></h3>
+      <p class="text-justify">We did campaign for Bank of India, and displayed their ad on Mini Hoardings and FOB Boards.</p>
     </div>
   </div>
 </div>
@@ -183,22 +183,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 408px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/cmc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/cmc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="cmc.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">CMC</a></h3>
-      <p>We did campaign for CMC and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
+      <h3 class="portfolio-item-title"><a href="cmc.php">CMC</a></h3>
+      <p class="text-justify">We did campaign for CMC and displayed the ads on Pole Kiosks in Dadra &amp; Nagar Haveli</p>
     </div>
   </div>
 </div>
@@ -207,22 +207,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 433px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/dadra_resort.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/dadra_resort.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="dadra_resort.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Dadra Resort</a></h3>
-      <p>We did campaign for Dadra Resort and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
+      <h3 class="portfolio-item-title"><a href="dadra_resort.php">Dadra Resort</a></h3>
+      <p class="text-justify">We did campaign for Dadra Resort and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
     </div>
   </div>
 </div>
@@ -231,22 +231,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 458px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/davp.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/davp.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/davp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/davp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="davp.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">DAVP</a></h3>
-      <p>Being registered with DAVP, Ministry of Information and Broadcasting, we did campaign for DAVP in Silvassa on Pole Kiosks</p>
+      <h3 class="portfolio-item-title"><a href="davp.php">DAVP</a></h3>
+      <p class="text-justify">Being registered with DAVP, Ministry of Information and Broadcasting, we did campaign for DAVP in Silvassa on Pole Kiosks</p>
     </div>
   </div>
 </div>
@@ -255,22 +255,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 612px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/heritage.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/heritage.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="heritage.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Heritage Marbles</a></h3>
-      <p>We did campaign for Heritage Marbles and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
+      <h3 class="portfolio-item-title"><a href="heritage.php">Heritage Marbles</a></h3>
+      <p class="text-justify">We did campaign for Heritage Marbles and displayed the ads on Pole Kiosks in Dadra &amp; Nagar HAveli</p>
     </div>
   </div>
 </div>
@@ -280,22 +280,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 637px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/icici.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/icici.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="icici.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">ICICI Bank &amp; ICICI Prudential</a></h3>
-      <p>We have done event campaign for ICICI Bank &amp; ICICI Prudential Life Insurance Pvt Ltd</p>
+      <h3 class="portfolio-item-title"><a href="icici.php">ICICI Bank &amp; ICICI Prudential</a></h3>
+      <p class="text-justify">We have done event campaign for ICICI Bank &amp; ICICI Prudential Life Insurance Pvt Ltd</p>
     </div>
   </div>
 </div>
@@ -305,22 +305,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 687px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/idea.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/idea.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="idea.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">IDEA</a></h3>
-      <p>We have done event campaign for ICICI Bank &amp; ICICI Prudential Life Insurance Pvt Ltd and also done advertising campaign in Silvassa on Pole Kiosks</p>
+      <h3 class="portfolio-item-title"><a href="idea.php">IDEA</a></h3>
+      <p class="text-justify"></p>
     </div>
   </div>
 </div>
@@ -330,22 +330,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 816px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/intex.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/intex.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/intex.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/intex.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="intex.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Intex Mobiles</a></h3>
-      <p>We have done advertising campaign in Vapi , by advertising on boards on Vapi FOB and Station.</p>
+      <h3 class="portfolio-item-title"><a href="intex.php">Intex Mobiles</a></h3>
+      <p class="text-justify">We have done advertising campaign in Vapi , by advertising on boards on Vapi FOB and Station.</p>
     </div>
   </div>
 </div>
@@ -355,22 +355,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 841px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/lt.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/lt.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/lt.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/lt.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="lt.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">LT Fabrics</a></h3>
-      <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
+      <h3 class="portfolio-item-title"><a href="lt.php">LT Fabrics</a></h3>
+      <p class="text-justify">We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
 </div>
@@ -379,22 +379,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 916px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/parvati.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/parvati.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/parvati.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/parvati.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="parvati.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Parvati Fabrics</a></h3>
-      <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
+      <h3 class="portfolio-item-title"><a href="parvati.php">Parvati Fabrics</a></h3>
+      <p class="text-justify">We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
 </div>
@@ -403,22 +403,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1020px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/mahindra.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/mahindra.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="mahindra.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Mahindra &amp; Mahindra</a></h3>
-      <p>We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="mahindra.php">Mahindra &amp; Mahindra</a></h3>
+      <p class="text-justify">We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa.</p>
     </div>
   </div>
 </div>
@@ -427,22 +427,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1045px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/master_mind.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/master_mind.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/master_mind.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/master_mind.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="mastermind.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Mastermind Services</a></h3>
-      <p>We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
+      <h3 class="portfolio-item-title"><a href="mastermind.php">Mastermind Services</a></h3>
+      <p class="text-justify">We have done advertising campaign in Surat , by advertising on Unipoles in Surat Station</p>
     </div>
   </div>
 </div>
@@ -451,22 +451,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 1120px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/matrudhara.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/matrudhara.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="matrudhara.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Matrudhara Dairy</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks in Silvassa and on Boards in Vapi FOB &amp; Station.</p>
+      <h3 class="portfolio-item-title"><a href="matrudhara.php">Matrudhara Dairy</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks in Silvassa and on Boards in Vapi FOB &amp; Station.</p>
     </div>
   </div>
 </div>
@@ -475,22 +475,21 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1224px;">
-      <div class="element-inner animation fadeInRight delay2">
-
+<div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/nitco.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/nitco.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="nitco.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Nitco Marble</a></h3>
-      <p>We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="nitco.php">Nitco Marble</a></h3>
+      <p class="text-justify">We have done advertising campaign in DNH , by advertising on Pole Kiosks in Silvassa</p>
     </div>
   </div>
 </div>
@@ -500,22 +499,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1249px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/oidc.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/oidc.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="oidc.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">OIDC</a></h3>
-      <p>We have done Promotional campaign in Daman, Diu &amp; dadra &amp; Nagar Haveli , for Saarthi Bus Sewa , an initiative started by OIDC Daman &amp; Diu</p>
+      <h3 class="portfolio-item-title"><a href="oidc.php">OIDC</a></h3>
+      <p class="text-justify">We have done Promotional campaign in Daman, Diu &amp; dadra &amp; Nagar Haveli , for Saarthi Bus Sewa , an initiative started by OIDC Daman &amp; Diu</p>
     </div>
   </div>
 </div>
@@ -525,22 +524,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 1349px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/orion_villa.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/orion_villa.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="orion_villa.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Orion Villa</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, and Mobile Hoarding in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="orion_villa.php">Orion Villa</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, and Mobile Hoarding in Silvassa</p>
     </div>
   </div>
 </div>
@@ -550,22 +549,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1428px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/pramukh.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/pramukh.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="pramukh.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Pramukh Developers</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Bus Branding, in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="pramukh.php">Pramukh Developers</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Bus Branding, in Silvassa</p>
     </div>
   </div>
 </div>
@@ -575,22 +574,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1478px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/sosyo.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/sosyo.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/sosyo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/sosyo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="sosyo.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Sosyo – Hajoori &amp; Sons</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, in  Silvassa and Boards at Vapi Station and FOB</p>
+      <h3 class="portfolio-item-title"><a href="sosyo.php">Sosyo – Hajoori &amp; Sons</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, Bus Branding, in  Silvassa and Boards at Vapi Station and FOB</p>
     </div>
   </div>
 </div>
@@ -600,22 +599,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 1578px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/steelfab.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/steelfab.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/steelfab.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/steelfab.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="steelfab.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Steelfab Building Systems</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks, in Silvassa, Boards at Vapi FOB, and SEO for Steelfab Group.</p>
+      <h3 class="portfolio-item-title"><a href="steelfab.php">Steelfab Building Systems</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; Vapi , by advertising on Pole Kiosks, in Silvassa, Boards at Vapi FOB, and SEO for Steelfab Group.</p>
     </div>
   </div>
 </div>
@@ -625,22 +624,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1657px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/sterling.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/sterling.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="sterling.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Sterling &amp; Wilson</a></h3>
-      <p>We have done advertising campaign in Surat , by advertising on Unipoles, in Surat Station</p>
+      <h3 class="portfolio-item-title"><a href="sterling.php">Sterling &amp; Wilson</a></h3>
+      <p class="text-justify">We have done advertising campaign in Surat , by advertising on Unipoles, in Surat Station</p>
     </div>
   </div>
 </div>
@@ -650,22 +649,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1707px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/svg.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/svg.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="svg.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">SVG Jewellers Pvt Ltd</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="svg.php">SVG Jewellers Pvt Ltd</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
     </div>
   </div>
 </div>
@@ -675,22 +674,22 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 1807px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/treat.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/treat.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="treat.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Treat Resort</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="treat.php">Treat Resort</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
     </div>
   </div>
 </div>
@@ -700,47 +699,230 @@
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1861px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/tulsi.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/tulsi.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/tulsi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/tulsi.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="tulsi.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Tulsi Villa - Prem Developers</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Mobile Hoarding in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="tulsi.php">Tulsi Villa - Prem Developers</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, and Mobile Hoarding in Silvassa</p>
     </div>
   </div>
 </div>
 </div>
 <!-- /Portfolio Element -->
 
-
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
-      <div class="element-inner animation fadeInRight delay2">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
        <div class="overlay-wrapper">
-        <img src="img/clientele/web-3.jpg" width="1200" height="900" alt="Portfolio 1">
+        <img src="img/client/wonderland.jpg" width="1200" height="900" alt="Portfolio 1">
         <div class="overlay-wrapper-content">
          <div class="overlay-details">
-          <a href="img/clientele/web-3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-          <a href="projects-single.html"><span class="fa fa-share"></span></a>
+          <a href="img/client/wonderland.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="wonderland.php"><span class="fa fa-share"></span></a>
         </div>
         <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
       </div>
     </div>
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
-      <h3 class="portfolio-item-title"><a href="projects-single.html">Wonderland Resort</a></h3>
-      <p>We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
+      <h3 class="portfolio-item-title"><a href="wonderland.php">Wonderland Resort</a></h3>
+      <p class="text-justify">We have done advertising campaign in Silvassa &amp; DNH , by advertising on Pole Kiosks, in Silvassa</p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+     <!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/datta.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/datta.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="datta.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="datta.php">Datta Projects</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/excellence.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/excellence.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="excellence.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="excellence.php">Excellence Carrer Point</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/veda.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/veda.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="veda.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="veda.php">Veda Residency</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/orion_imperia.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/orion_imperia.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="orion_imperia.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="orion_imperia.php">Orion Imperia</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/cosmo.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/cosmo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="cosmo.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="cosmo.php">Cosmo City</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/prabhat.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/prabhat.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="prabhat.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="prabhat.php">Prabhat Scholars' Academy</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/pray.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/pray.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="pray.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="pray.php">Pray Developers</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/smile.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/smile.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="smile.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="smile.php">Smile Water</a></h3>
+      <p class="text-justify"></p>
     </div>
   </div>
 </div>
