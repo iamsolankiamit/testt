@@ -50,7 +50,7 @@
               <li><a href="" class="filter" data-filter=".event">promotional events</a></li>
             </ul>                    
             <!-- Portfolio Grid -->
-            <div class="portfolio-grid  portfolio-3-cols">
+            <div class="portfolio-grid portfolio-3-cols portfolio-classic" style="position: relative; height: 2115px;">
             <!-- Portfolio Element -->
                 <div class="element isotope-item digital" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
@@ -143,7 +143,7 @@
                   </div>
                 </div>
               <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              <!-- Portfolio Element --
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -165,8 +165,8 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              - /Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -188,8 +188,8 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              - /Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -211,8 +211,8 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              - /Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -234,7 +234,7 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
+              - /Portfolio Element -->
               <!-- Portfolio Element -->
                 <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
@@ -413,7 +413,7 @@
                     <div class="portfolio-item-content panel panel-default" style="height:220px">
                       <div class="panel-body">
                         <h3 class="portfolio-item-title"><a href="garden.php">Garden Branding</a></h3>
-                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                        <p class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On requirement of a PSU bank, we developed a innovative branding activity at Mumbai Central, by developing the Garden Triangle. This adds to the beauty of the station as well as increases the eye hits and Brand recall.</p>
                       </div>
                     </div>                   
                   </div>
@@ -442,7 +442,7 @@
                   </div>
                 </div>
               <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item outdoor" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -464,7 +464,7 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
+              - /Portfolio Element -->
               
 
               

@@ -6,13 +6,13 @@
 			<div class="row">
         <div class="col-sm-12 columns">
           <div class="page-title">
-            <h2>Cosmo City</h2>
+            <h2>HP</h2>
           </div>
           <div class="breadcrumbs-wrapper">
 						<ol class="breadcrumb">
 							<li><a href="/index.php">Home</a></li>
 							<li><a href="/clientele.php">Clientele</a></li>
-							<li class="active">Cosmo City</li>
+							<li class="active">HP</li>
 						</ol> 
           </div>
 				</div>
@@ -35,10 +35,10 @@
 								<div>
 									<!-- Overlay Img -->
 									<div class="overlay-wrapper">
-										<img src="img/client/cosmo.jpg" alt="Portfolio 1"/>
+										<img src="img/client/hp.jpg" alt="Portfolio 1"/>
 										<div class="overlay-wrapper-content">
 											<div class="overlay-details">
-                                        		<a href="img/client/cosmo.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+                                        		<a href="img/client/hp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--                                                <a href="http://themeforest.net/user/4GraFx/portfolio"><span class="fa fa-share"></span></a>
 -->                                                <a href="#"><span class="fa fa-heart-o"></span></a>
                                             </div>
@@ -50,10 +50,10 @@
 								<div>
 									<!-- Overlay Img -->
 									<div class="overlay-wrapper">
-										<img src="img/client/cosmo1.jpg" alt="Portfolio 2"/>
+										<img src="img/client/hp1.jpg" alt="Portfolio 2"/>
 										<div class="overlay-wrapper-content">
 											<div class="overlay-details">
-                                        		<a href="img/client/cosmo1.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+                                        		<a href="img/client/hp1.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
 <!--                                                <a href="http://themeforest.net/user/4GraFx/portfolio"><span class="fa fa-share"></span></a>
 -->                                                <a href="#"><span class="fa fa-heart-o"></span></a>
 
@@ -63,29 +63,13 @@
 									</div>
                                 	<!-- Overlay Img -->                                 
                                 </div>
-                <div>
-                  <!-- Overlay Img -->
-                  <div class="overlay-wrapper">
-                    <img src="img/client/cosmo2.jpg" alt="Portfolio 2"/>
-                    <div class="overlay-wrapper-content">
-                      <div class="overlay-details">
-                                            <a href="img/client/cosmo2.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
-<!--                                                <a href="http://themeforest.net/user/4GraFx/portfolio"><span class="fa fa-share"></span></a>
--->                                                <a href="#"><span class="fa fa-heart-o"></span></a>
-
-                                            </div>
-                                          <div class="overlay-bg bg-color-dark"></div>
-                                      </div>
-                  </div>
-                                  <!-- Overlay Img -->                                 
-                                </div>
 							</div>
 						</div>
                     	<div class="white-space space-medium"></div>                
 					
                     </div>
                     <div class="col-md-4 col-sm-6">	
-                    	<h4 class="fancy-title"><span>Cosmo City</span></h4>	
+                    	<h4 class="fancy-title"><span>HP</span></h4>	
           						<p class="text-justify"></p>
                         <div class="white-space space-xsmall"></div>
 <!--

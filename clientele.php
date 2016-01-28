@@ -205,7 +205,7 @@
 </div>
 <!-- /Portfolio Element -->
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 433px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -227,7 +227,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 458px;">
@@ -303,7 +303,7 @@
 <!-- /Portfolio Element -->
 
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 687px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -325,7 +325,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
 
      <!-- Portfolio Element -->
@@ -353,7 +353,7 @@
 <!-- /Portfolio Element -->
 
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 841px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -375,9 +375,9 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 916px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -399,7 +399,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 865px; top: 1020px;">
@@ -425,7 +425,7 @@
 </div>
 <!-- /Portfolio Element -->
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1045px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -447,7 +447,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
      <!-- Portfolio Element -->
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 0px; top: 1120px;">
@@ -497,7 +497,7 @@
 <!-- /Portfolio Element -->
 
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element -
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1249px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -519,7 +519,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
 
      <!-- Portfolio Element -->
@@ -922,6 +922,75 @@
     <div class="portfolio-item-content panel panel-default" style="height:175px">
      <div class="panel-body">
       <h3 class="portfolio-item-title"><a href="smile.php">Smile Water</a></h3>
+      <p class="text-justify"></p>
+    </div>
+  </div>
+</div>
+</div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+    <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+        <div class="overlay-wrapper">
+          <img src="img/client/property_forest.jpg" width="1200" height="900" alt="Portfolio 1">
+          <div class="overlay-wrapper-content">
+            <div class="overlay-details">
+              <a href="img/client/property_forest.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+              <a href="property_forest.php"><span class="fa fa-share"></span></a>
+            </div>
+            <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+          </div>
+        </div>
+        <div class="portfolio-item-content panel panel-default" style="height:175px">
+          <div class="panel-body">
+            <h3 class="portfolio-item-title"><a href="property_forest.php">Property Forest</a></h3>
+            <p class="text-justify"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+    <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+        <div class="overlay-wrapper">
+          <img src="img/client/hp.jpg" width="1200" height="900" alt="Portfolio 1">
+          <div class="overlay-wrapper-content">
+            <div class="overlay-details">
+              <a href="img/client/hp.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+              <a href="hp.php"><span class="fa fa-share"></span></a>
+            </div>
+            <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+          </div>
+        </div>
+        <div class="portfolio-item-content panel panel-default" style="height:175px">
+          <div class="panel-body">
+            <h3 class="portfolio-item-title"><a href="hp.php">HP</a></h3>
+            <p class="text-justify"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- /Portfolio Element -->
+<!-- Portfolio Element -->
+     <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 1911px;">
+      <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
+
+       <div class="overlay-wrapper">
+        <img src="img/client/nissan.jpg" width="1200" height="900" alt="Portfolio 1">
+        <div class="overlay-wrapper-content">
+         <div class="overlay-details">
+          <a href="img/client/nissan.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+          <a href="nissan.php"><span class="fa fa-share"></span></a>
+        </div>
+        <div class="overlay-bg bg-overlay bg-overlay-gdark"></div>
+      </div>
+    </div>
+    <div class="portfolio-item-content panel panel-default" style="height:175px">
+     <div class="panel-body">
+      <h3 class="portfolio-item-title"><a href="nissan.php">Nissan</a></h3>
       <p class="text-justify"></p>
     </div>
   </div>

@@ -63,6 +63,38 @@
 									</div>
                                 	<!-- Overlay Img -->                                 
                                 </div>
+              <div>
+                  <!-- Overlay Img -->
+                  <div class="overlay-wrapper">
+                    <img src="img/client/orion_imperia2.jpg" alt="Portfolio 2"/>
+                    <div class="overlay-wrapper-content">
+                      <div class="overlay-details">
+                                            <a href="img/client/orion_imperia2.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+<!--                                                <a href="http://themeforest.net/user/4GraFx/portfolio"><span class="fa fa-share"></span></a>
+-->                                                <a href="#"><span class="fa fa-heart-o"></span></a>
+
+                                            </div>
+                                          <div class="overlay-bg bg-color-dark"></div>
+                                      </div>
+                  </div>
+                                  <!-- Overlay Img -->                                 
+                </div>
+                <div>
+                  <!-- Overlay Img -->
+                  <div class="overlay-wrapper">
+                    <img src="img/client/orion_imperia3.jpg" alt="Portfolio 2"/>
+                    <div class="overlay-wrapper-content">
+                      <div class="overlay-details">
+                                            <a href="img/client/orion_imperia3.jpg" data-lightbox="image"><span class="fa fa-plus"></span></a>
+<!--                                                <a href="http://themeforest.net/user/4GraFx/portfolio"><span class="fa fa-share"></span></a>
+-->                                                <a href="#"><span class="fa fa-heart-o"></span></a>
+
+                                            </div>
+                                          <div class="overlay-bg bg-color-dark"></div>
+                                      </div>
+                  </div>
+                                  <!-- Overlay Img -->                                 
+                                </div>
 							</div>
 						</div>
                     	<div class="white-space space-medium"></div>                
