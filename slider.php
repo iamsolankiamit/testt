@@ -24,7 +24,7 @@
         <!-- SLIDE  -->
         <li data-transition="slidehorizontal" data-slotamount="1" data-masterspeed="500" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="BUS SHELTER">
           <!-- MAIN IMAGE -->
-          <img src="img/slider/4.jpg"  alt="slidebg2" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+          <img src="img/slider/4.png"  alt="slidebg2" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
         </li>
         <!-- SLIDE  -->
         <!-- SLIDE  -->

@@ -93,92 +93,98 @@
     <div class="carousel-box" >
       <div class="carousel carousel-simple" data-carousel-autoplay="false" data-carousel-items="5" data-carousel-nav="true" data-carousel-pagination="true"  data-carousel-speed="1000">
         <div class="carousel-item">
-          <img src="img/clients/1.png" title="Nitco Marble" alt="Brand 1" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/1.png" title="Nitco Marble" alt="Nitco Marble" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/2.png" title="Steelfab Building Systems" alt="Brand 2" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/2.png" title="Steelfab Building Systems" alt="Steelfab Building Systems" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/3.png" title="Bank of India" alt="Brand 3" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/3.png" title="Bank of India" alt="Bank of India" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/4.png" title="Bank of Baroda" alt="Brand 4" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/4.png" title="Bank of Baroda" alt="Bank of Baroda" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/5.png" title="Parvati Fabrics Limited" alt="Brand 5" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/5.png" title="Parvati Fabrics Limited" alt="Parvati Fabrics Limited" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/6.png" title="" alt="Brand 6" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/6.png" title="ACC Cement" alt="ACC Cement" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/7.png" title="" alt="Brand 7" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/7.png" title="Alok Public School" alt="Alok Public School" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/8.png" title="" alt="Brand 8" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/8.png" title="Classic Marble Company" alt="Classic Marble Company" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/9.png" title="" alt="Brand 9" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/9.png" title="Dadra Resort" alt="Dadra Resort" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/10.png" title="" alt="Brand 10" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/11.png" title="" alt="Brand 11" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/12.png" title="" alt="Brand 12" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/13.png" title="" alt="Brand 13" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/14.png" title="" alt="Brand 14" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/15.png" title="" alt="Brand 15" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/16.png" title="Nitco Marble" alt="Brand 1" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/17.png" title="Steelfab Building Systems" alt="Brand 2" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/18.png" title="Bank of India" alt="Brand 3" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/19.png" title="Bank of Baroda" alt="Brand 4" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/20.png" title="Parvati Fabrics Limited" alt="Brand 5" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/21.png" title="" alt="Brand 6" style="height: 90px; max-width: 100%;">
-        </div>
-        <div class="carousel-item">
-          <img src="img/clients/22.png" title="" alt="Brand 7" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/10.png" title="DAVP" alt="DAVP" style="height: 90px; max-width: 100%;">
         </div>
 <!--        <div class="carousel-item">
-          <img src="img/clients/23.png" title="" alt="Brand 8" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/11.png" title="HDFC Bank" alt="HDFC Bank" style="height: 90px; max-width: 100%;">
         </div>
 -->
         <div class="carousel-item">
-          <img src="img/clients/24.png" title="" alt="Brand 9" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/12.png" title="Heritage Marbles" alt="Heritage Marbles" style="height: 90px; max-width: 100%;">
+        </div>
+<!--        <div class="carousel-item">
+          <img src="img/clients/13.png" title="ICICI" alt="ICICI" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+<!--        <div class="carousel-item">
+          <img src="img/clients/14.png" title="Idea" alt="Idea" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+        <div class="carousel-item">
+          <img src="img/clients/15.png" title="Orion Villa" alt="Orion Villa" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/25.png" title="" alt="Brand 10" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/16.png" title="Tulsi Villa" alt="Tulsi Villa" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/26.png" title="" alt="Brand 11" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/17.png" title="Treat Resort" alt="Brand 2" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/27.png" title="" alt="Brand 12" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/18.png" title="SVG Jewellers Pvt Ltd" alt="SVG Jewellers Pvt Ltd" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/28.png" title="" alt="Brand 13" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/19.png" title="Sterling & Wilson" alt="Sterling & Wilson" style="height: 90px; max-width: 100%;">
         </div>
         <div class="carousel-item">
-          <img src="img/clients/29.png" title="" alt="Brand 14" style="height: 90px; max-width: 100%;">
+          <img src="img/clients/20.png" title="Sosyo" alt="Sosyo" style="height: 90px; max-width: 100%;">
+        </div>
+<!--        <div class="carousel-item">
+          <img src="img/clients/21.png" title="Punjab National Bank" alt="Punjab National Bank" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+        <div class="carousel-item">
+          <img src="img/clients/22.png" title="Pramukh Developers" alt="Pramukh Developers" style="height: 90px; max-width: 100%;">
+        </div>
+<!--        <div class="carousel-item">
+          <img src="img/clients/23.png" title="Parvati Fabrics" alt="Parvati Fabrics" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+<!--        <div class="carousel-item">
+          <img src="img/clients/24.png" title="OIDC" alt="OIDC" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+        <div class="carousel-item">
+          <img src="img/clients/25.png" title="Matrudhara" alt="Matrudhara" style="height: 90px; max-width: 100%;">
+        </div>
+<!--        <div class="carousel-item">
+          <img src="img/clients/26.png" title="Mastermind Services" alt="Mastermind Services" style="height: 90px; max-width: 100%;">
+        </div>
+-->
+        <div class="carousel-item">
+          <img src="img/clients/27.png" title="Mahindra" alt="Mahindra" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/28.png" title="LT Fabrics" alt="LT Fabrics" style="height: 90px; max-width: 100%;">
+        </div>
+        <div class="carousel-item">
+          <img src="img/clients/29.png" title="Intex" alt="Intex" style="height: 90px; max-width: 100%;">
         </div>
       </div>
     </div>
