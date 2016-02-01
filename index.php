@@ -91,7 +91,7 @@
    <div class="col-md-12 columns">
    <!-- Carousel -->
     <div class="carousel-box" >
-      <div class="carousel carousel-simple" data-carousel-autoplay="false" data-carousel-items="5" data-carousel-nav="true" data-carousel-pagination="true"  data-carousel-speed="1000">
+      <div class="carousel carousel-simple" data-carousel-autoplay="false" data-carousel-items="5" data-carousel-nav="true" data-carousel-pagination="true"  data-carousel-speed="1000" style="padding-left:30px;padding-right:30px">
         <div class="carousel-item">
           <img src="img/clients/1.png" title="Nitco Marble" alt="Nitco Marble" style="height: 90px; max-width: 100%;">
         </div>
@@ -170,9 +170,10 @@
           <img src="img/clients/24.png" title="OIDC" alt="OIDC" style="height: 90px; max-width: 100%;">
         </div>
 -->
-        <div class="carousel-item">
+<!--        <div class="carousel-item">
           <img src="img/clients/25.png" title="Matrudhara" alt="Matrudhara" style="height: 90px; max-width: 100%;">
         </div>
+-->
 <!--        <div class="carousel-item">
           <img src="img/clients/26.png" title="Mastermind Services" alt="Mastermind Services" style="height: 90px; max-width: 100%;">
         </div>

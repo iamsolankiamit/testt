@@ -47,8 +47,8 @@
               <li><a href="" class="filter selected" data-filter="*">All</a></li>
               <li><a href="" class="filter" data-filter=".digital">digital media</a></li>
               <li><a href="" class="filter" data-filter=".outdoor">outdoor</a></li>
-              <li><a href="" class="filter" data-filter=".event">promotional events</a></li>
-            </ul>                    
+<!--              <li><a href="" class="filter" data-filter=".event">promotional events</a></li>
+-->            </ul>                    
             <!-- Portfolio Grid -->
             <div class="portfolio-grid portfolio-3-cols portfolio-classic" style="position: relative; height: 2115px;">
             <!-- Portfolio Element -->
@@ -120,7 +120,7 @@
                   </div>
                 </div>
               <!-- /Portfolio Element -->
-              <!-- Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">
@@ -142,8 +142,8 @@
                     </div>                   
                   </div>
                 </div>
-              <!-- /Portfolio Element -->
-              <!-- Portfolio Element --
+              - /Portfolio Element -->
+              <!-- Portfolio Element -
                 <div class="element isotope-item event" data-content="./portfolio/portfolio2.html">
                   <div class="element-inner animation fadeInLeft">
                     <div class="overlay-wrapper">

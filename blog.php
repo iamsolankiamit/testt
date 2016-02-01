@@ -58,7 +58,7 @@
                       <div class="carousel-box animation flipInY">
                         <div class="carousel" data-carousel-autoplay="6000" data-carousel-nav="true" data-carousel-pagination="false" data-carousel-single="true" data-carousel-transition="goDown">
                           <div class="carousel-item "><img src="img/demo/blog/blog-slider1.jpg" width="1225" height="550" alt="Blog One"></div>
-                                                    <div class="carousel-item "><img src="img/demo/blog/blog-slider2.jpg" width="1225" height="550" alt="Blog One"></div>     
+                          <div class="carousel-item "><img src="img/demo/blog/blog-slider2.jpg" width="1225" height="550" alt="Blog One"></div>
                         </div>
                       </div>
                       <!-- /Post Slider -->  
@@ -75,7 +75,8 @@
                     <div class="post-content">
                       <p class="text-justify">Sed volutpat nisl id massa tempor, eu fermentum mi interdum. Donec sit amet gravida nulla. Proin ac neque sem. In gravida egestas odio. In purus eros, venenatis sit amet nibh quis, scelerisque molestie nunc. <strong>Vestibulum vehicula</strong> libero elementum sapien mollis, eget adipiscing ipsum pharetra. Quisque lacinia magna quis lobortis viverra.</p>
                     </div>
-                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+<!--                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+-->
                                     </div> 
                                                         
                         </div>
@@ -110,7 +111,8 @@
                     <div class="post-content">
                       <p>Nulla sapien lorem, <strong>lobortis non dui vitae</strong>, gravida imperdiet velit. Vivamus nec bibendum odio. Smart at adipiscing leo, eget sodales purus. Nullam ante tellus, tempus vitae est ut, smart rhoncus ligula. Donec molestie arcu in nisl luctus volutpat. Nullam porttitor metus sapien, sit amet suscipit massa laoreet eu.</p>
                     </div>
-                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+<!--                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+-->
                                     </div>
                                                         
                         </div>
@@ -147,7 +149,8 @@
                     <div class="post-content">
                       <p>Vivamus tortor purus, volutpat eu imperdiet et, aliquet vel lectus. <strong>Quisque ut convalli</strong>s massa. Donec tempus urna id felis gravida rutrum ut non ipsum. Duis luctus eget ante a fringilla. Aliquam egestas arcu <a href="#">luctus felis</a> luctus feugiat. Maecenas aliquam pharetra lectus, non adipiscing mauris. Cras eleifend hendrerit ipsum, et laoreet sem scelerisque sit amet.</p>
                     </div>
-                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+<!--                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+-->
                                     </div>
                                                         
                         </div>
@@ -182,7 +185,8 @@
                     <div class="post-content">
                       <p>Aliquam non arcu convallis, tristique magna sit amet, facilisis turpis. In tincidunt quis tellus vitae lacinia. Phasellus ut elit egestas, facilisis nibh quis, porttitor lacus. Sed eleifend eros sed magna varius, ac rutrum turpis ultrices. Vivamus ligula dictum diam, ac sodales ante enim sit amet diam. </p>
                     </div>
-                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+<!--                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+-->
                                     </div>
                     
                         </div>
@@ -214,7 +218,8 @@
                     <div class="post-content">
                       <p>Aliquam non arcu convallis, tristique magna sit amet, facilisis turpis. In tincidunt quis tellus vitae lacinia. Phasellus ut elit egestas, facilisis nibh quis, porttitor lacus. Sed eleifend eros sed magna varius, ac rutrum turpis ultrices. Vivamus ligula dictum diam, ac sodales ante enim sit amet diam. </p>
                     </div>
-                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+<!--                                        <a class="btn btn-primary btn-sm" href="blog-single-post.html">Read More<i class="fa iconright fa-arrow-circle-right"></i></a>
+-->
                                     </div>
                     
                         </div>

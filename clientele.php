@@ -278,7 +278,7 @@
 <!-- /Portfolio Element -->
 
 
-     <!-- Portfolio Element -->
+     <!-- Portfolio Element --
      <div class="element isotope-item design colio-item" data-content="./portfolio/portfolio2.html" style="position: absolute; left: 432px; top: 637px;">
       <div class="element-inner animation fadeInRight delay2 animation-active" style="height:480px">
 
@@ -300,7 +300,7 @@
   </div>
 </div>
 </div>
-<!-- /Portfolio Element -->
+- /Portfolio Element -->
 
 
      <!-- Portfolio Element -
